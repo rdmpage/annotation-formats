@@ -1,0 +1,4981 @@
+[
+  {
+    "sourceid": "14752",
+    "sourcedb": "",
+    "project": "",
+    "target": "",
+    "text": "Regulation of Mitotic Inhibitor Mik1 Helps to Enforce the DNA Damage Checkpoint The protein kinase Chk1 enforces the DNA damage checkpoint. This checkpoint delays mitosis until damaged DNA is repaired. Chk1 regulates the activity and localization of Cdc25, the tyrosine phosphatase that activates the cdk Cdc2. Here we report that Mik1, a tyrosine kinase that inhibits Cdc2, is positively regulated by the DNA damage checkpoint. Mik1 is required for checkpoint response in strains that lack Cdc25. Long-term DNA damage checkpoint arrest fails in Δmik1 cells. DNA damage increases Mik1 abundance in a Chk1-dependent manner. Ubiquitinated Mik1 accumulates in a proteasome mutant, which indicates that Mik1 normally has a short half-life. Thus, the DNA damage checkpoint might regulate Mik1 degradation. Mik1 protein and mRNA oscillate during the unperturbed cell cycle, with peak amounts detected around S phase. These data indicate that regulation of Mik1 abundance helps to couple mitotic onset to the completion of DNA replication and repair. Coordinated negative regulation of Cdc25 and positive regulation of Mik1 ensure the effective operation of the DNA damage checkpoint. INTRODUCTION In response to DNA damage or incomplete DNA synthesis, eukaryotic cells delay the onset of mitosis by activation of mitotic checkpoints. These checkpoints enhance genome integrity by ensuring that chromosomes are fully replicated and repaired before nuclear division. Genomic instability arising from checkpoint defects may lead to cancer. Moreover, checkpoints influence the response of tumor cells to radiotherapy and chemotherapy protocols that damage DNA or inhibit DNA replication. Thus, understanding checkpoint mechanisms is a major priority of current studies that investigate cell cycle control or cancer. Fundamental insights into DNA damage checkpoints have arisen from studies of the fission yeast Schizosaccharomyces pombe. Chk1, a protein kinase that is essential for DNA damage checkpoint arrest, was discovered in fission yeast. Chk1 functions downstream of a group of “checkpoint Rad” proteins that includes Rad1, Rad3, Rad9, Rad17, Rad26, and Hus1. The functions of checkpoint Rad proteins are poorly understood, as is the regulation of Chk1. However, it is known that DNA damage stimulates Chk1 phosphorylation by a process that requires the checkpoint Rad proteins Rad4/Cut5 and Rhp9/Crb2. Cdc2, the cdk that triggers mitosis, is the ultimate target of checkpoint regulation. Cdc2 is inhibited by phosphorylation on tyrosine 15 catalyzed by the protein kinases Wee1 and Mik1. Cdc25, the tyrosine phosphatase that activates Cdc2, is an important substrate of Chk1. Chk1 regulates Cdc25 by two mechanisms. One mechanism is direct inhibition of Cdc25 phosphatase activity directed toward Cdc2. The second mechanism involves stimulated association with 14-3-3 proteins, such as Rad24 in fission yeast, which leads to net nuclear export of Cdc25 and consequent exclusion from the nuclear pool of Cdc2/cyclin B. The checkpoint Rad proteins, but not Chk1 or Crb2, are required for S–M replication checkpoint. This checkpoint prevents mitosis when DNA replication is slowed, e.g., with the drug hydroxyurea, an inhibitor of ribonucleotide reductase. The protein kinase Cds1, instead of Chk1, functions downstream of checkpoint Rad proteins to enforce the S–M checkpoint. Like the DNA damage checkpoint, the S–M replication checkpoint prevents mitosis by maintaining Cdc2 in an inhibited, tyrosine phosphorylated state. In a manner similar to Chk1, Cds1 phosphorylates and thereby inhibits Cdc25. Cds1 is also required for the large accumulation of Mik1 protein that occurs in hydroxyurea-treated cells. It is thought that inhibition of Cdc25 function and accumulation of Mik1 both contribute to enforcement of the replication checkpoint. Checkpoint mechanisms uncovered in studies of S. pombe appear to be conserved among most eukaryotes, including humans. DNA database searches have identified human homologues of chk1+ and cds1+. These homologues inhibit Cdc25 and become activated or hyperphosphorylated in response to DNA damage. Moreover, DNA damage in human cells leads to inhibition of Cdc25 activity by a process that requires ATM, a kinase related to Rad3 in fission yeast. In mammalian or Xenopus cells grown in culture, nuclear exclusion of Cdc25 requires association with 14-3-3 proteins, an observation that suggests a potential checkpoint role for 14-3-3 proteins. In Xenopus egg extracts, activation of the DNA replication checkpoint induces stabilization of exogenous Wee1 added to the extract, an observation similar to that of Mik1 accumulation in fission yeast cells treated with hydroxyurea. Regulation of Cdc25 by Chk1 appears to be very important for the DNA damage checkpoint. However, this fact does not exclude the possibility that the Cdc2-directed kinases Wee1 and Mik1 might be regulated in a positive manner by the DNA damage checkpoint. Indeed, Wee1 appears to be hyperphosphorylated in UV-irradiated cells, although the significance of this phosphorylation is unknown. Here we report that Mik1 is regulated by the DNA damage checkpoint. Genetic and physiological evidence shows that Mik1 is important for maintenance of the DNA damage checkpoint and that Mik1 protein abundance increases in cells arrested at the checkpoint. Mik1 also accumulates in the nucleus during an unperturbed S phase. These data indicate that Mik1 regulation helps to ensure that the onset of mitosis is coupled to the completion of DNA replication during the normal cell cycle or completion of DNA repair in cells that have suffered DNA damage. MATERIALS AND METHODS General Methods Genetic and biochemical methods for studying fission yeast were used as described. All strains were grown in yeast extract–glucose medium at 30°C unless indicated otherwise. Cells were synchronized by centrifugal elutriation at 30°C with a Beckman (Fullerton, CA) JE-5.0 elutriation rotor. DNA damage was inflicted from a 137C source at 3 Gy min−1 for 67 min or by the addition of 2.5 mU ml−1 bleomycin sulfate. Cells were scored for progression through mitosis by microscopic observation. Indirect immunofluorescence studies were performed as described. Northern blot analysis was performed with 10 μg of total RNA with random primed 32P-labeled mik1+ or leu1+ probe as described. Immunoblot analysis was performed with 50 μg of total cell lysate. Samples were electrophoresed on a 10% SDS-PAGE gel and wet transferred to Immobilon (Millipore, Bedford, MA). Blots were probed with mouse mAbs to the Myc epitope (9E10; Santa Cruz Biotechnology, Santa Cruz, CA) or the PSTAIR peptide derived from Cdc2. Primary antibodies were detected with the use of an HRP-conjugated anti-mouse immunoglobulin G antibody (Promega, Madison, WI) and Luminol reagents (Pierce, Rockford, IL). Proteins that were covalently linked to His6-ubiquitin were purified in denaturing conditions as described. Yeast Strains S. pombe strains of the following genotypes were used in this study: PR109, wild type; GL192, cdc2-3w cdc25::ura4+; NR1976, cdc2-3w cdc25::ura4+ chk1::ura4+; NR1977, cdc2-3w cdc25::ura4+ mik1::ura4+; PR712, mik1::ura4+; BF1758, nmt1:GST-chk1:leu1+; BF2404, wee1-50 cdc25::ura4+ nmt1:GST-chk1:leu1+; NR1365, mik1::ura4+ nmt1:GST-chk1:leu1+; NR1291, wee1-50 nmt1:GST-chk1:leu1+; AL2405, mik1:13Myc:kan; BF2406, rad3::ura4+ mik1:13Myc:kan; BF2407, chk1::ura4+ mik1:13Myc:kan; BF2408, cds1::ura4+ mik1:13Myc:kan; BF2409, cdc25-22 mik1:13Myc:kan; BF2410, cdc25-22 chk1::ura4+ mik1:13Myc:kan; BF2442, cdc25-22 rad3::ura4+ mik1:13Myc:kan; and NB2411, mts3-1 mik1:13Myc:kan. All strains were leu1-32 ura4-D18. RESULTS Cdc25-independent Checkpoint Delay To determine if Cdc25 is the sole target of Chk1, a careful analysis of the DNA damage checkpoint was performed with cdc2-3w Δcdc25 cells. Cdc25 is normally essential for division, but the cdc2-3w mutation, which is a dominant activating allele, bypasses the requirement for Cdc25. Cells that have the cdc2-3w mutation divide at a cell length of ∼8 μm, whereas cdc2-3w Δcdc25 cells divide at ∼18 μm. These facts are consistent with the observation that DNA damage, which leads to inhibition of Cdc25, causes a substantial checkpoint delay in cdc2-3w cells. Importantly, Cdc2 protein encoded by cdc2-3w is responsive to changes in the activity of kinases that phosphorylate Cdc2 on tyrosine 15. A synchronous population of cdc2-3w Δcdc25 cells in G2 phase was collected by centrifugal elutriation and immediately exposed to 200 Gy of ionizing radiation or mock treated. Irradiation caused an ∼45-min mitotic delay relative to the unirradiated control (Figure 1A). These findings showed that the DNA damage checkpoint is partially retained in cdc2-3w Δcdc25 cells. To determine if Chk1 is required for this mitotic delay, a cdc2-3w Δcdc25 Δchk1 culture was analyzed by the same experimental protocol (Figure 1B). The Δchk1 mutation eliminated the mitotic delay induced by irradiation. The DNA damage checkpoint is abolished in cells that are unable to phosphorylate Cdc2 on tyrosine 15. Therefore, these data suggested that Chk1 must regulate Wee1 or Mik1, the kinases that phosphorylate Cdc2 on tyrosine 15.   Mik1 Is Important for Division Arrest Induced by GST–Chk1 Overproduction Expression of large amounts of GST–Chk1 fusion protein causes cell cycle arrest, mimicking a damage-induced checkpoint arrest. This phenotype also occurs in a Δwee1 strain. To confirm that Chk1 is able to delay mitosis independently of Cdc25 and Wee1, GST–Chk1 was overproduced under the control of the thiamine-repressible nmt1 promoter in a wee1-50 Δcdc25 strain. These cells were grown at 35°C, a restrictive temperature that inactivates wee1-50 gene product. Remarkably, GST–Chk1 overexpression caused cell cycle arrest in wee1-50 Δcdc25 cells (Figure 2A). These data implicated Mik1 as a target of Chk1 regulation.   To test the possibility that Mik1 is regulated by Chk1, a copy of the nmt1:GST-chk1+ construct was integrated in a Δmik1 strain. Induction of GST–Chk1 expression induced cell elongation but failed to cause cell cycle arrest in Δmik1 cells (Figure 2B). In fact, Δmik1 cells formed viable colonies in medium that induces GST–Chk1 expression (Figure 2C). In contrast, overproduction of GST–Chk1 caused cell cycle arrest in wild-type and wee1-50 cells incubated at 32°C (Figure 2) and in Δwee1 cells. These findings demonstrated that Mik1 is important for the cell cycle arrest induced by GST–Chk1 overproduction. Damage Checkpoint Impaired by Δmik1 Mutation The contribution of Mik1 to the G2–M damage checkpoint was determined by performing a long-term DNA damage checkpoint experiment with a Δmik1 strain. A synchronous population of cells in G2 phase collected by centrifugal elutriation was exposed to the radiomimetic drug bleomycin, which causes DNA double-strand breaks. Bleomycin-treated Δmik1 cells exhibited a mitotic delay of ∼100 min relative to mock-treated Δmik1 or wild-type cells (Figure 3A). Unlike wild-type cells, Δmik1 cells were unable to maintain a checkpoint arrest. In the continuous presence of bleomycin, all of the Δmik1 cells completed mitosis by 240 min, whereas fewer than 10% of wild-type cells had undergone mitosis by 320 min (Figure 3A). These findings demonstrated that Mik1 is required for a prolonged DNA damage checkpoint arrest.   Independent confirmation of the importance of Mik1 in the DNA damage checkpoint was provided by examination of the checkpoint response in a cdc2-3w Δcdc25 Δmik1 strain. A synchronized culture cdc2-3w Δcdc25 Δmik1 cells was exposed to ionizing radiation or mock treated (Figure 3B). The irradiated and mock-treated cultures completed mitosis with similar kinetics. These findings contrast with the behavior of cdc2-3w Δcdc25 cells (Figure 1), in which irradiation caused a substantial delay of mitosis by a Chk1-dependent process. These studies supported the proposition that Mik1 is in some way positively regulated by Chk1. Cell Cycle Regulation of Nuclear Mik1 Cellular localization of the mitotic activator, Cdc25, changes in response to DNA damage. This precedence prompted investigations of Mik1 localization in cells that have suffered DNA damage. Before undertaking these studies, we examined the localization of Mik1 during the normal cell cycle with the use of a strain that expressed a myc-tagged form of Mik1 (mik1:13Myc) from the mik1+ genomic locus. These cells underwent division at a normal size, and wee1-50 mik1:13Myc cells were viable at 36°C (our unpublished data); therefore, the myc-tagged form of Mik1 appeared to be fully functional. Mik1 was detected in the nucleus of binucleate cells and small cells that had recently completed cell division (Figure 4A). G1 phase is normally very short in fission yeast; thus, DNA replication ensues almost immediately after nuclear division and is essentially complete when daughter cells have detached. Therefore, the nuclear staining pattern of Mik1 corresponds to S phase and early G2.   The cytoplasmic signal detected in the myc-tagged Mik1 strain was comparable to the background signal observed in the untagged control strain (Figure 4A). This observation suggested that the periodic nuclear detection of Mik1 was determined by changes in protein abundance, as opposed to regulation of Mik1 subcellular localization. This hypothesis was tested by immunoblot measurements of Mik1 abundance in a synchronous cell culture. A temperature-sensitive cdc25-22 strain was arrested in late G2 phase by incubation at restrictive temperature, followed by a shift to permissive temperature, which caused synchronous resumption of cell cycle progression. Immunoblot analysis showed that Mik1 protein abundance oscillated during the cell cycle, with the peak signal coinciding with maximum septation index (Figure 4B). This pattern corresponds most closely to S phase in a cdc25-22 arrest-and-release experiment. Northern blot analysis demonstrated that mik1+ mRNA abundance also oscillated during the cell cycle, with the peak signal occurring immediately before the maximum immunoblot signal for Mik1 (Figure 4B). Thus, the nuclear localization of Mik1 during S and early G2 phases correlated with the appearance of mik1+ mRNA and protein. Mik1 Accumulation Induced by Checkpoints Immunofluorescence studies were performed to monitor Mik1 localization in cells arrested at DNA replication or damage checkpoints. These experiments used mik1:13Myc cells incubated for 4 h in 10 mM hydroxyurea (HU) or 2.5 mU of bleomycin (BL). Activation of the DNA replication checkpoint by hydroxyurea caused accumulation of Mik1 in the nucleus (Figure 5A). Essentially all cells treated with hydroxyurea displayed a nuclear Mik1 signal, whereas in asynchronous cultures only binucleate or septated cells in S, or short cells in early G2, presented a Mik1 signal in the nucleus. The Mik1 signal in hydroxyurea-arrested cells was much more intense than that observed in asynchronous cells that were in S phase. The intense nuclear signal of Mik1 in hydroxyurea-arrested cells accords with previous immunoblot studies that demonstrated dramatic accumulation of Mik1 protein in cells arrested at the S–M replication checkpoint. These studies also showed that hydroxyurea-induced accumulation was largely dependent on Rad3 and Cds1. In agreement with the previous immunoblot studies, the Mik1 nuclear signal was substantially reduced in hydroxyurea-treated Δrad3 or Δcds1 cells relative the wild-type counterparts (Figure 5, B and C). The Δrad3 cells failed to arrest in hydroxyurea and instead entered mitosis with incompletely replicated DNA. This checkpoint defect accounts for the large number of septated Δrad3 cells in which DNA, visualized with the stain DAPI, is unequally segregated to the daughter cells (Figure 5B). As predicted, the hydroxyurea-induced nuclear accumulation of Mik1 was undiminished in Δchk1 cells (Figure 5D)   The asynchronous culture of Δrad3 cells presented a Mik1 staining pattern that was generally similar to that in wild-type cells, i.e., the Mik1 nuclear signal was strongest in binucleate or septated cells (Figure 5B, left panels). This pattern indicated that the normal periodicity of Mik1 mRNA and protein accumulation during S and early G2 was not dependent on Rad3. Likewise, unperturbed Δcds1 or Δchk1 cells displayed a Mik1 staining pattern that was very similar to that in wild-type cells. Interestingly, it appeared that an increased fraction of the uninucleate cells in the asynchronous Δrad3 culture displayed a detectable Mik1 nuclear signal, relative to uninucleate wild-type cells. This observation might indicate that Δrad3 cells spend a longer period of the cell cycle in S phase, perhaps as a result of heretofore unrecognized problems with DNA replication. Upon activation of the DNA damage checkpoint by bleomycin, wild-type cells arrest in G2, a period in the cell cycle in which Mik1 protein is not detected by immunofluorescence (Figure 4). Interestingly, Mik1 nuclear staining was clearly visible in cells treated with bleomycin (Figure 5A). This signal was quite evident but was substantially less strong than that observed with wild-type cells arrested with hydroxyurea. A large fraction of the Δrad3 or Δchk1 cells treated with bleomycin had no nuclear Mik1 signal, the exceptions being mostly septated, binucleate, or shorter uninucleate cells that were presumably in S or early G2 (Figure 5, B and D). This pattern was particularly evident in the Δchk1 cells. The Δcds1 cells treated with bleomycin appeared very similar to wild-type counterparts, a finding that is consistent with the notion that Cds1 has no significant role in the DNA damage checkpoint. An immunoblot experiment was performed to confirm that bleomycin induces the accumulation of Mik1 to a level greater than that found in asynchronous cells but less than the amount found in cells treated with hydroxyurea (Figure 5E) Thus, DNA damage inflicted by bleomycin induced the accumulation of Mik1 by a process dependent on Rad3 and Chk1. These findings substantially strengthened evidence that Mik1 is specifically regulated by the DNA damage checkpoint. Mik1 Nuclear Accumulation Induced by DNA Damage in Prearrested G2 Cells An experiment was performed to determine if the accumulation of Mik1 induced by bleomycin was a specific consequence of the DNA damage checkpoint, as opposed to prolonged arrest in G2. A culture of cdc25-22 mik1:13Myc cells was arrested in G2 by incubation at restrictive temperature. Nuclear accumulation of Mik1 was not detected in these cells (Figure 6). However, when bleomycin was added after the shift to restrictive temperature, cdc25-22 mik1:13Myc cells exhibited Mik1 nuclear staining. Cells of the same genetic background that also contained the Δchk1 or Δrad3 allele failed to accumulate Mik1 when treated with bleomycin after a shift to restrictive temperature (Figure 6). These results demonstrated that nuclear accumulation of Mik1 induced by bleomycin was caused by activation of the damage checkpoint and was not simply a result of the G2 arrest. Thus, nuclear accumulation of Mik1 appeared to be a cause instead of a consequence of the G2 arrest induced by DNA damage.   Increased mik1 mRNA during Replication but Not Damage Checkpoint Nuclear accumulation of Mik1 during S and early G2 of the unperturbed cell cycle correlated with the appearance of mik1 mRNA (Figure 4). Northern blot experiments were performed to determine if checkpoint-induced accumulation of Mik1 protein also correlated with changes in the abundance of mik1 mRNA. These experiments were performed with wild-type or Δrad3 cells exposed to hydroxyurea or bleomycin. A substantial increase in mik1+ mRNA was detected in wild-type cells treated with hydroxyurea (Figure 7). These cells were arrested in S, the phase of the cell cycle in which mik1+ mRNA is most abundant in cycling cells (Figure 4). Earlier unpublished studies indicated that mik1+ mRNA was unchanged in hydroxyurea-arrested cells, but this finding was erroneous, perhaps because of the paucity of mik1+ mRNA. Importantly, mik1+ mRNA was unchanged in cells arrested in G2 with bleomycin (Figure 7). Thus, the bleomycin-induced accumulation of nuclear Mik1 was apparently not caused by enhanced expression or stabilization of mik1+ mRNA.   Accumulation of Polyubiquitinated Mik1 in a Proteasome Mutant The rapid disappearance of Mik1 upon exit from S phase in cycling cells (Figure 4) suggested that Mik1 protein might normally have a short half-life. As a first step in the exploration of this possibility, an experiment was performed to determine if Mik1 is stabilized in cells that have the temperature-sensitive mts3-1 mutation. Mts3 is an essential component of the 26S proteasome. Incubation of this strain at the restrictive temperature led to a large increase of Mik1:13Myc protein (Figure 8A). To determine if Mik1 protein turnover might be mediated by polyubiquitination, this experiment was repeated in a strain that produced a hexahistidine-tagged form of ubiquitin. Hexahistidine proteins were purified with Ni2+-nitrilotriacetic acid agarose and immunoblotted with antibodies to the myc epitope. Samples prepared from mts3-1 cells yielded a substantial amount of Mik1:13Myc protein, whereas only a very weak Mik1:13Myc signal was detected in the sample from wild-type cells (Figure 8B). Most of this protein migrated in a broad range that is substantially larger than that of unmodified Mik1:13Myc protein, which indicated that Mik1:13Myc was most likely polyubiquitinated. These data indicated that Mik1 is rapidly degraded by ubiquitin-mediated proteolysis and suggested that checkpoints might induce Mik1 accumulation by stabilization of Mik1 protein.   DISCUSSION Role of Mik1 in the DNA Damage Checkpoint Genetic and biochemical studies established that Cdc25 is a target of negative regulation by Chk1. Mutational inactivation of Cdc25 prevents the onset of mitosis. Chk1, therefore, could theoretically enforce a DNA damage checkpoint solely by inhibition of Cdc25. Our goal was to determine if Cdc25 is the only important target of the DNA damage checkpoint. Our findings argue against this hypothesis. These studies strongly suggest that positive regulation of Mik1 plays a significant role in the DNA damage checkpoint. Cdc25 is normally essential for mitosis, but some strains are viable without Cdc25. The genotype of one such strain is cdc2-3w Δcdc25. How cdc2-3w suppresses Δcdc25 is unknown; Cdc2 encoded by cdc2-3w is inhibited by tyrosine 15 phosphorylation catalyzed by Wee1 or Mik1. In fact, cdc2-3w wee1-50 cells undergo premature lethal mitosis (“mitotic catastrophe”) at restrictive temperature. We found that DNA damage causes a substantial mitotic delay in cdc2-3w Δcdc25 cells. This defect was not obvious with static analysis of asynchronous cultures (, but it was readily detected by careful analysis of synchronous cultures. This delay was abolished by Δchk1 or Δmik1 mutations, a result consistent with a model in which positive regulation of Mik1 by Chk1 helps to enforce the DNA damage checkpoint. Deletion of cdc25+ is also suppressed by wee1-50. We found that GST–Chk1 overproduction arrests division in wee1-50 Δcdc25 cells. This observation provided further indications that Chk1 regulates Mik1, because GST–Chk1 overproduction cannot arrest division in wee1-50 Δmik1 cells or in cells that express Cdc2-F15, a form of Cdc2 that cannot be phosphorylated by Wee1 or Mik1. The hypothesis that Chk1 regulates Mik1 was explored in more detail by determining if the Δmik1 mutation impairs division arrest induced by GST–Chk1 overproduction. Surprisingly, division arrest induced by GST–Chk1 was suppressed by Δmik1 but not by wee1-50 (as shown here) or Δwee1. These findings are remarkable because Wee1 is presumed to contribute the bulk of kinase activity that phosphorylates Cdc2 on tyrosine 15. Mutational inactivation of Wee1 but not Mik1 causes a wee phenotype and suppresses cdc25 loss-of-function mutations. These findings suggested that Mik1 but not Wee1 is a target of Chk1-mediated division arrest. How does Δmik1 rescue division arrest caused by enzymatic inactivation of Cdc25 catalyzed by GST–Chk1 but not mutational inactivation of Cdc25, whereas wee1 mutations have the opposite effect? An answer is provided by a model in which Chk1 increases Mik1 abundance. If Chk1 simultaneously inhibits Cdc25 function and increases Mik1 abundance, then wee1− mutations could be insufficient to suppress enzymatic inactivation of Cdc25. Mutational inactivation of Cdc25 is not accompanied by enhanced Mik1 abundance. A related question is the following: why is the Δmik1 mutation sufficient to suppress enzymatic inactivation of Cdc25 catalyzed by GST–Chk1 but not mutational inactivation of Cdc25? Two explanations come readily to mind. Cdc25 might be more severely inhibited by mutations compared with GST–Chk1 overproduction. Hence, Δmik1 might be sufficient to rescue Chk1-mediated inhibition of Cdc25 but not mutational inactivation of Cdc25. Alternatively, suppression of GST–Chk1 overproduction in Δmik1 cells might involve checkpoint adaptation. This adaptation process would depend on intact Cdc25 protein that might be subject to positive regulation that counteracts the effect of Chk1. The notion of adaptation is consistent with the observation that Δmik1 cells appear to temporarily cease division for a period after induction of GST–Chk1 but eventually recover (our unpublished data). Checkpoint adaptation is unexplored in fission yeast but has been proposed to operate in budding yeast, The hypothesis that Mik1 is important for the DNA damage checkpoint was confirmed in studies that examined the effect of Δmik1 in the checkpoint response elicited by continuous exposure to bleomycin. In wild-type cells, bleomycin causes a prolonged arrest that lasts for at least 240 min. In contrast, Δmik1 cells exposed to bleomycin initially arrest normally but undergo division ∼100 min after the mock-treated cells. The fact that Δmik1 cells undergo a substantial but abbreviated mitotic delay may explain why this defect has remain undiscovered until now. Regulation of Mik1 by the DNA Damage Checkpoint Having established that Mik1 is important for the DNA damage checkpoint, we then investigated how Mik1 might be regulated by the checkpoint apparatus. We found that Mik1 protein abundance was substantially increased in cells treated with bleomycin. This fact was evident from both immunoblot and immunolocalization studies. The latter studies indicated that Mik1 accumulation requires Rad3 and Chk1; therefore, the Mik1 accumulation appears be a consequence of DNA damage checkpoint activation. Indeed, G2 arrest caused by the cdc25-22 mutation did not lead to Mik1 accumulation, a result that indicates that Mik1 accumulation is a cause rather than a consequence of G2 arrest induced by the DNA damage checkpoint. Mik1 is a dose-dependent inhibitor of mitosis; thus, it is easy to understand how increased abundance of Mik1 would help to enforce the DNA damage checkpoint. Mik1 abundance increases in cells arrested at the DNA damage checkpoint with bleomycin, but the magnitude of Mik1 accumulation is less than that observed in cells treated with hydroxyurea. The bleomycin effect is mediated through the damage checkpoint involving Chk1, whereas hydroxyurea leads to Cds1 activation as part of the replication checkpoint response. The difference in the magnitude of Mik1 protein accumulation is probably attributable, at least in part, to the difference in mik1 mRNA accumulation. As we have shown here, there is substantially more mik1 mRNA in cells arrested with hydroxyurea compared with bleomycin. The effect of hydroxyurea on mik1 mRNA appears to be part of the S–M replication checkpoint response, because it depends on Rad3. We have presented initial studies aimed at determining the mechanism by which DNA damage induces the accumulation of Mik1 protein. We found that Mik1 accumulated in a mts3-1 mutant that is defective in a subunit of the 26S proteasome. Moreover, our studies revealed that Mik1 is ubiquitinated. These findings, and the fact that Mik1 abundance oscillates in a very transitory manner during the normal cell cycle, suggest that Mik1 protein is normally very unstable. These findings prompt speculation that the DNA damage checkpoint stabilizes Mik1 protein. There is precedence for checkpoint-induced stabilization of proteins in the Wee1/Mik1 family. In the budding yeast Saccharomyces cerevisiae, the Wee1/Mik1 homologue Swe1 is stabilized in cells arrested at the morphogenesis checkpoint that coordinates mitosis with bud formation. In cell extracts, exogenous Swe1 is polyubiquitinated by a process that is impaired by cdc34 or met30 mutations. Cdc34 is an E2 ubiquitin-conjugating enzyme, whereas Met30 is an “F box” protein that is a component of an E3 ubiquitin ligase enzyme. Swe1 protein is also stabilized by cdc34 or met30 mutations in vivo. In Xenopus oocyte extracts, activation of the replication checkpoint stabilizes exogenous Wee1 protein. In these assays, Wee1 was stabilized by the addition of a dominant negative form of Cdc34. Together, these studies and our results suggest that the induced stabilization of Cdc2-directed tyrosine kinases plays an important role in checkpoint mechanisms that couple the onset of mitosis to DNA replication, DNA repair, or morphogenetic events required for successful cell division. Regulation of Mik1 during S Phase We have also explored Mik1 regulation during the normal cell cycle. Studies performed with synchronous cultures showed that mik1+ mRNA is expressed periodically during the cell cycle, with peak signals detected during S phase. The appearance of Mik1 protein was quite similar, being slightly delayed relative to the detection of mik1+ mRNA. These findings were confirmed by immunolocalization studies that showed that Mik1 is detected in binucleate cells and short uninucleate cells, a pattern that corresponds to S phase and perhaps early G2. It is remarkable that expression of Mik1, a mitotic inhibitor, is enhanced during S phase. It is tempting to speculate that this pattern of Mik1 expression helps to couple the onset of mitosis to the completion of DNA replication in cell cycles that are unperturbed by DNA replication or damage checkpoints. This could be an intrinsic mechanism of inhibiting mitosis during S phase. DNA replication is normally completed very quickly after nuclear division in fission yeast, long before cells have satisfied the size requirement for the initiation of mitosis. Thus, in these conditions, the Mik1-independent cell size control is sufficient to ensure that mitosis occurs after the completion of DNA replication. This cell size control requires Wee1, as indicated by the phenotype of wee1− mutants, which undergo mitosis at approximately half the size of wild-type cells. In fact, simultaneous inactivation of Wee1 and Mik1 causes a mitotic catastrophe in which cells undergo mitosis at a very small size and apparently before the completion of DNA replication. Thus, in a wee1− mutant, the periodic expression of Mik1 that occurs during S phase is essential to couple the onset of mitosis to the completion of DNA replication. It remains to be determined if there are situations that do not involve the inhibition of DNA replication in which periodic expression of Mik1 during S phase is required to couple mitosis to the completion of DNA replication. In some conditions of poor nutrient availability, wild-type cells divide at a small cell size that approaches the size of wee1− mutants. It is possible that Wee1 is inactivated in poor nutrient conditions, thereby accounting for the contraction of G2 and the extension of G1. Future experiments will determine if Mik1 is important for proper mitotic control in these circumstances. Strategies for Dual Enforcement of Checkpoints This and previous studies provide strong evidence that replication and damage checkpoint arrests are maintained through two general mechanisms: negative regulation of Cdc25 and positive regulation of Mik1 (Figure 9). In each case, the effect is the same, namely, to maintain tyrosine 15 phosphorylation of Cdc2 and thereby prevent the onset of mitosis. The question arises regarding the relative importance of the two modes of regulation. The Δmik1 mutation clearly causes a damage checkpoint defect, but this defect is modest relative to the absence of checkpoint arrest seen in Δchk1 cells. Likewise, the hydroxyurea-induced replication checkpoint fails gradually in a population of Δmik1 cells, whereas the checkpoint is abolished in Δrad3 or Δcds1 Δchk1 cells. This comparison suggests that positive regulation of Mik1 may be of secondary import relative to negative regulation of Cdc25. However, this view of the checkpoint mechanism may be incorrect, because the equivalent experiment cannot be performed with a strain that lacks Cdc25 but is otherwise wild type. The closest approximation are studies with Δcdc25 cdc2-3w cells, which have shown that the damage checkpoint is largely but not completely eliminated. However, in these studies, the effect of the cdc2-3w mutation cannot be ascertained with certainty. Attempts to specifically abrogate the checkpoint regulation of Cdc25 by mutation of Cds1- or Chk1-directed phosphorylation sites have produced only partial checkpoint defects, although only a subset of phosphorylation sites have been eliminated in these experiments. Therefore, an accurate evaluation of the relative importance of Cdc25 and Mik1 regulation in the checkpoint responses awaits a more detailed understanding of the modes of regulation. These questions will be more fully addressed with the invention of a method to specifically abrogate checkpoint regulation of Cdc25.   An alternative viewpoint is that Mik1 has specialized importance in maintaining long-term checkpoint arrests. In our studies with bleomycin treatment, we observed that the Δmik1 mutation caused a dramatic failure of the checkpoint arrest, but this failure occurred ∼100 min after mock-treated cells underwent mitosis. Two factors may be important in these circumstances. One factor is checkpoint adaptation. Some types of DNA damage may be unrepairable but not necessarily lethal to both daughter cells. In this case, the best survival strategy is to relieve the checkpoint arrest and undergo division. This postulated mechanism of active checkpoint override has been termed “adaptation”. The behavior of Δmik1 cells in bleomycin might be viewed as premature adaptation. Size control of mitosis is a second factor that may explain the significance of Mik1 regulation by the DNA damage checkpoint. Cells must reach a certain size threshold before initiating mitosis, but after this threshold is reached, it is likely that mitosis-promoting “forces” increase as cell growth continues. These forces might be influenced by the continued accumulation of Cdc25 or cyclin B or the increased activity of the kinases Nim1/Cdr1 or Cdr2 that inhibit Wee1, to name only some possibilities. Hence, Chk1-mediated inhibition of Cdc25 may be sufficient to delay mitosis in cells that are somewhat above the size threshold, but reliance on this regulation alone may fail as cell size increases further. Thus, regulation of Mik1 by the DNA damage checkpoint may be particularly important in late G2 cells that suffer a large amount of DNA damage or damage that requires more time to repair. Figures and Tables Chk1-dependent mitotic delay caused by ionizing irradiation in cdc2-3w Δcdc25 cells. Synchronous populations of cdc2-3w Δcdc25 (GL192) or cdc2-3w Δcdc25 Δchk1 (NR1976) cells were obtained by centrifugal elutriation. Cultures were exposed to 200 Gy of ionizing radiation (+IR) or mock treated (−IR). Progression through mitosis was determined by microscopic observation. GST–Chk1 overproduction arrests division in the absence of Wee1 and Cdc25. A wee1-50 Δcdc25 nmt1:GST-chk1+ (BF2404) strain was incubated on medium that repressed (off) or induced (on) GST–Chk1 production. Cells were photographed after 48 h at 35°C. Deletion of mik1+ impairs the DNA damage checkpoint. (A) Synchronous cultures of early G2 wild-type (PR109) or Δmik1 (PR712) cells were produced by centrifugal elutriation and exposed to the radiomimetic drug bleomycin (BL) at a concentration of 2.5 mU/ml or mock treated. (B) Synchronous cultures of early G2 cdc2-3w Δcdc25 Δmik1 (NR1977) cells were exposed to 200 Gy of ionizing irradiation (+IR) or mock treated (−IR). Note that NR1977 grows slowly relative to cdc2-3w Δcdc25 (GL192) shown in Figure 1A; thus, these experiments cannot be compared directly. Nuclear staining of Mik1 during S phase and early G2 corresponds to increased Mik1 mRNA and protein. (A) A synchronous population of mik1+:13Myc (AL2405) cells in early G2 phase was produced by centrifugal elutriation and processed to detect Mik1:13Myc or nuclei with the DNA stain DAPI. The approximate phase of the cell cycle is indicated. Nuclear Mik1 was detected during S phase and early G2. Cytoplasmic staining was not significantly different from that of the untagged wild-type (WT) strain. (B) Synchronous cdc25-22 mik1+:13Myc (BF2409) cells in late G2 were obtained by incubation at restrictive temperature (36°C) for 4 h. Division arrest was relieved by decreasing the temperature to 25°C. Northern blot analysis revealed that mik1 mRNA peaked shortly after the division release (40 min), whereas immunoblot studies showed that Mik1 protein abundance peaked soon thereafter (60 min). These time points correspond approximately to S or early G2 phase. Loading controls were total RNA for the Northern blot and Cdc2 protein for the immunoblot. DNA replication and damage checkpoints stimulate nuclear accumulation of Mik1. Asynchronous populations of strains that contained the mik1+:13Myc allele were incubated in 10 mM hydroxyurea (+HU) or 2.5 mU/ml bleomycin (+BL) for 4 h. Cells were processed to reveal Mik1:13Myc or DNA (DAPI). (A) Wild type (AL2405); (B) Δrad3 (BF2406); (C) Δcds1 (BF2408); (D) Δchk1 (BF2407). (E) Immunoblot analysis of wild-type (AL2405) cells exposed to HU or BL as described above. Chk1-dependent nuclear accumulation of Mik1 is not a consequence of the G2 arrest. Cultures of cdc25-22 mik1+:13Myc (BF2409), cdc25-22 rad3::ura4+ mik1:13Myc (BF2442), or cdc25-22 mik1+:13Myc Δchk1 (BF2410) cells were shifted to restrictive temperature (36°C). Thirty minutes later, cells were treated with 2.5 mU/ml bleomycin (+BL) or mock treated (−BL). After another 3.5-h incubation at 36°C, cells were processed to detect Mik1:13Myc or DNA (DAPI). Regulation of mik1 mRNA in checkpoint-arrested cells. Wild-type (AL2405) or Δrad3 (BF2406) cells were incubated in 10 mM hydroxyurea (+HU) or 2.5 mU/ml bleomycin (+BL) for 4 h. RNA was harvested and probed in a Northern blot with mik1 or leu1 probes. PhosphorImager analysis indicated that mik1 mRNA increased ∼3.5-fold in the HU-treated wild-type cells relative to all the other samples. Accumulation of ubiquitinated Mik1 in proteasome mutant. (A) Wild-type (AL2405) or mts3-1 (NB2411) cells that expressed Mik1:13Myc from the mik1+ locus were incubated for 4 h at 35.5°C. Anti-myc immunoblot analysis was performed with cell extracts. (B) The same strains were transformed with pREP1-His6-ubiquitin and induced to express His6-ubiquitin before incubation at 4 h at 35.5°C. Samples were processed to purify proteins that were covalently linked to His6-ubiquitin followed by immunoblot analysis with anti-Myc antibody. Model of the DNA damage checkpoint in fission yeast. REFERENCES DNA repair mutants defining G2 checkpoint pathways in Schizosaccharomyces pombe Identification and characterization of new elements involved in checkpoint and feedback controls in fission yeast A human homolog of the checkpoint kinase Cds1 directly inhibits Cdc25 Replication checkpoint enforced by kinases Cds1 and Chk1 Involvement of cdc13+ in mitotic control in Schizosaccharomyces pombe: possible interaction of the gene product with microtubules The cdr2+ gene encodes a regulator of G2/M progression and cytokinesis in Schizosaccharomyces pombe Basis for the checkpoint signal specificity that regulates Chk1 and Cds1 protein kinases A human Cds1-related kinase that functions downstream of ATM protein in the cellular response to DNA damage Negative regulation of the Wee1 protein kinase by direct action of the Nim1/Cdr1 mitotic inducer Cytoplasmic localization of human cdc25C during interphase requires an intact 14-3-3 binding site Cell cycle checkpoints: preventing an identity crisis Mutation of fission yeast cell cycle control genes abolishes dependence of mitosis on DNA replication Control of cell size of division in fission yeast by a growth-modulated size control over nuclear division Cdc25 inhibited in vitro and in vivo by checkpoint kinases Cds1 and Chk1 Cdc25 mitotic inducer targeted by Chk1 DNA damage checkpoint kinase pch1+, a second essential C-type cyclin in Schizosaccharomyces pombe A conditional lethal mutant in the fission yeast 26S protease subunit mts3+ is defective in metaphase to anaphase transition Defects in a cell cycle checkpoint may be responsible for the genomic instability of cancer cells Cell cycle control and cancer Checkpoints: controls that ensure the order of cell cycle events Cdc34 and the F-box protein met30 are required for degradation of the cdk-inhibitory kinase swe1 The protein kinase Cdr2, related to Nim1/Cdr1 mitotic inducer, regulates the onset of mitosis in fission yeast Molecular analysis of hus1+, a fission yeast gene required for S-M and DNA damage checkpoints Binding of 14-3-3 proteins and nuclear export control the intracellular localization of the mitotic inducer Cdc25 Saccharomyces Ku70, mre11/rad50 and RPA proteins regulate adaptation to G2/M arrest after DNA damage S-phase-specific activation of Cds1 kinase defines a subpathway of the checkpoint response in Schizosaccharomyces pombe Nuclear localization of Cdc25 regulated by DNA damage and 14-3-3 protein mik1 and wee1 cooperate in the inhibitory tyrosine phosphorylation of cdc2 Linkage of ATM to cell cycle regulation by the Chk2 protein kinase Coupling of mitosis to the completion of S phase through Cdc34-mediated degradation of wee1 Molecular genetic analysis of fission yeast Schizosaccharomyces pombe Regulation of mitosis by cyclic accumulation of p80cdc25 mitotic inducer in fission yeast A kinase from fission yeast responsible for blocking mitosis in S phase Genetic control of cell size at cell division in fission yeast Chk1 is a wee1 kinase in the G2 DNA damage checkpoint inhibiting cdc2 by Y15 phosphorylation Phosphorylation and inactivation of the mitotic inhibitor Wee1 by the nim1/cdr1 kinase Mitotic and G2 checkpoint control: regulation of 14-3-3 protein binding by phosphorylation of Cdc25C on serine-216 Cdc2 tyrosine phosphorylation is required for the DNA damage checkpoint in fission yeast Mitotic DNA damage and replication checkpoints in yeast Tyrosine phosphorylation of Cdc2 required for the replication checkpoint in Schizosaccharomyces pombe Checkpoints on the road to mitosis cdc25+ functions as an inducer in the mitotic control of fission yeast The mitotic inducer nim1+ functions in a regulatory network of protein kinase homologs controlling the initiation of mitosis Negative regulation of mitosis by wee1+, a gene encoding a protein kinase homolog Damage and replication checkpoint control in fission yeast is ensured by interactions of crb2, a protein with BRCT motif, with cut5 and chk1 Fission yeast cut5+, required for S phase onset and M phase restraint, is identical to the radiation-damage repair gene rad4+ Conservation of the Chk1 checkpoint pathway in mammals: linkage of DNA damage to Cdk regulation through Cdc25 Feedback controls and G2 checkpoints: fission yeast as a model system Stress-activated protein kinase pathway in cell cycle control of fission yeast Control of Swe1p degradation by the morphogenesis checkpoint CDC5 and CKII control adaptation to the yeast DNA damage checkpoint Fission yeast chk1 protein kinase links the rad checkpoint pathway to cdc2 rad-dependent response of the chk1-encoded protein kinase at the DNA damage checkpoint Isolation and characterization of the Schizosaccharomyces pombe rhp9 gene: a gene required for the DNA damage checkpoint but not the replication checkpoint Nim1 kinase promotes mitosis by inactivating Wee1 tyrosine kinase Maintenance of G2 arrest in the Xenopus oocyte: a role for 14-3-3-mediated inhibition of Cdc25 nuclear import Replication checkpoint requires phosphorylation of the phosphatase Cdc25 by Cds1 or Chk1",
+    "denotations": [
+      {
+        "span": {
+          "begin": 32,
+          "end": 36
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "1"
+      },
+      {
+        "span": {
+          "begin": 32,
+          "end": 36
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:53Z",
+        "id": "274"
+      },
+      {
+        "span": {
+          "begin": 99,
+          "end": 103
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:54Z",
+        "id": "773"
+      },
+      {
+        "span": {
+          "begin": 99,
+          "end": 103
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "623"
+      },
+      {
+        "span": {
+          "begin": 202,
+          "end": 206
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:54Z",
+        "id": "774"
+      },
+      {
+        "span": {
+          "begin": 202,
+          "end": 206
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "624"
+      },
+      {
+        "span": {
+          "begin": 250,
+          "end": 255
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "700"
+      },
+      {
+        "span": {
+          "begin": 331,
+          "end": 335
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "2"
+      },
+      {
+        "span": {
+          "begin": 331,
+          "end": 335
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:53Z",
+        "id": "275"
+      },
+      {
+        "span": {
+          "begin": 429,
+          "end": 433
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "3"
+      },
+      {
+        "span": {
+          "begin": 429,
+          "end": 433
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:53Z",
+        "id": "276"
+      },
+      {
+        "span": {
+          "begin": 491,
+          "end": 496
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "701"
+      },
+      {
+        "span": {
+          "begin": 580,
+          "end": 584
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "4"
+      },
+      {
+        "span": {
+          "begin": 580,
+          "end": 584
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:53Z",
+        "id": "277"
+      },
+      {
+        "span": {
+          "begin": 600,
+          "end": 604
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:54Z",
+        "id": "775"
+      },
+      {
+        "span": {
+          "begin": 600,
+          "end": 604
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "625"
+      },
+      {
+        "span": {
+          "begin": 637,
+          "end": 641
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "5"
+      },
+      {
+        "span": {
+          "begin": 637,
+          "end": 641
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "278"
+      },
+      {
+        "span": {
+          "begin": 699,
+          "end": 703
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "6"
+      },
+      {
+        "span": {
+          "begin": 699,
+          "end": 703
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "279"
+      },
+      {
+        "span": {
+          "begin": 783,
+          "end": 787
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "7"
+      },
+      {
+        "span": {
+          "begin": 783,
+          "end": 787
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "280"
+      },
+      {
+        "span": {
+          "begin": 801,
+          "end": 805
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "8"
+      },
+      {
+        "span": {
+          "begin": 801,
+          "end": 805
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "281"
+      },
+      {
+        "span": {
+          "begin": 950,
+          "end": 954
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "9"
+      },
+      {
+        "span": {
+          "begin": 950,
+          "end": 954
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "282"
+      },
+      {
+        "span": {
+          "begin": 1079,
+          "end": 1084
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "702"
+      },
+      {
+        "span": {
+          "begin": 1112,
+          "end": 1116
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "10"
+      },
+      {
+        "span": {
+          "begin": 1112,
+          "end": 1116
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "283"
+      },
+      {
+        "span": {
+          "begin": 1932,
+          "end": 1936
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:54Z",
+        "id": "776"
+      },
+      {
+        "span": {
+          "begin": 1932,
+          "end": 1936
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "626"
+      },
+      {
+        "span": {
+          "begin": 2040,
+          "end": 2044
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:54Z",
+        "id": "777"
+      },
+      {
+        "span": {
+          "begin": 2040,
+          "end": 2044
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "627"
+      },
+      {
+        "span": {
+          "begin": 2250,
+          "end": 2254
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:54Z",
+        "id": "778"
+      },
+      {
+        "span": {
+          "begin": 2250,
+          "end": 2254
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "628"
+      },
+      {
+        "span": {
+          "begin": 2304,
+          "end": 2308
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:54Z",
+        "id": "779"
+      },
+      {
+        "span": {
+          "begin": 2304,
+          "end": 2308
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "629"
+      },
+      {
+        "span": {
+          "begin": 2585,
+          "end": 2589
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "11"
+      },
+      {
+        "span": {
+          "begin": 2585,
+          "end": 2589
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "284"
+      },
+      {
+        "span": {
+          "begin": 2591,
+          "end": 2596
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "703"
+      },
+      {
+        "span": {
+          "begin": 2673,
+          "end": 2677
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:54Z",
+        "id": "780"
+      },
+      {
+        "span": {
+          "begin": 2673,
+          "end": 2677
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "630"
+      },
+      {
+        "span": {
+          "begin": 2679,
+          "end": 2683
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:54Z",
+        "id": "781"
+      },
+      {
+        "span": {
+          "begin": 2679,
+          "end": 2683
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "631"
+      },
+      {
+        "span": {
+          "begin": 2694,
+          "end": 2699
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "704"
+      },
+      {
+        "span": {
+          "begin": 2757,
+          "end": 2762
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "705"
+      },
+      {
+        "span": {
+          "begin": 2950,
+          "end": 2955
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "706"
+      },
+      {
+        "span": {
+          "begin": 3062,
+          "end": 3066
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:54Z",
+        "id": "782"
+      },
+      {
+        "span": {
+          "begin": 3062,
+          "end": 3066
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "632"
+      },
+      {
+        "span": {
+          "begin": 3297,
+          "end": 3301
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:54Z",
+        "id": "783"
+      },
+      {
+        "span": {
+          "begin": 3297,
+          "end": 3301
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "633"
+      },
+      {
+        "span": {
+          "begin": 3553,
+          "end": 3557
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:54Z",
+        "id": "784"
+      },
+      {
+        "span": {
+          "begin": 3553,
+          "end": 3557
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "634"
+      },
+      {
+        "span": {
+          "begin": 3600,
+          "end": 3605
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "707"
+      },
+      {
+        "span": {
+          "begin": 3659,
+          "end": 3663
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "12"
+      },
+      {
+        "span": {
+          "begin": 3659,
+          "end": 3663
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "285"
+      },
+      {
+        "span": {
+          "begin": 3747,
+          "end": 3752
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "708"
+      },
+      {
+        "span": {
+          "begin": 3782,
+          "end": 3786
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "13"
+      },
+      {
+        "span": {
+          "begin": 3782,
+          "end": 3786
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "286"
+      },
+      {
+        "span": {
+          "begin": 4032,
+          "end": 4036
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:54Z",
+        "id": "785"
+      },
+      {
+        "span": {
+          "begin": 4032,
+          "end": 4036
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "635"
+      },
+      {
+        "span": {
+          "begin": 4074,
+          "end": 4079
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "709"
+      },
+      {
+        "span": {
+          "begin": 4210,
+          "end": 4215
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "710"
+      },
+      {
+        "span": {
+          "begin": 4369,
+          "end": 4374
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "711"
+      },
+      {
+        "span": {
+          "begin": 4662,
+          "end": 4666
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "14"
+      },
+      {
+        "span": {
+          "begin": 4662,
+          "end": 4666
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "287"
+      },
+      {
+        "span": {
+          "begin": 4743,
+          "end": 4748
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "712"
+      },
+      {
+        "span": {
+          "begin": 4752,
+          "end": 4756
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:54Z",
+        "id": "786"
+      },
+      {
+        "span": {
+          "begin": 4752,
+          "end": 4756
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "636"
+      },
+      {
+        "span": {
+          "begin": 4909,
+          "end": 4913
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "15"
+      },
+      {
+        "span": {
+          "begin": 4909,
+          "end": 4913
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "288"
+      },
+      {
+        "span": {
+          "begin": 5137,
+          "end": 5141
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "16"
+      },
+      {
+        "span": {
+          "begin": 5137,
+          "end": 5141
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "289"
+      },
+      {
+        "span": {
+          "begin": 5231,
+          "end": 5235
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "17"
+      },
+      {
+        "span": {
+          "begin": 5231,
+          "end": 5235
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "290"
+      },
+      {
+        "span": {
+          "begin": 5303,
+          "end": 5307
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "18"
+      },
+      {
+        "span": {
+          "begin": 5303,
+          "end": 5307
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "291"
+      },
+      {
+        "span": {
+          "begin": 5373,
+          "end": 5377
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "19"
+      },
+      {
+        "span": {
+          "begin": 5373,
+          "end": 5377
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "292"
+      },
+      {
+        "span": {
+          "begin": 5466,
+          "end": 5470
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "20"
+      },
+      {
+        "span": {
+          "begin": 5466,
+          "end": 5470
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "293"
+      },
+      {
+        "span": {
+          "begin": 6354,
+          "end": 6358
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "21"
+      },
+      {
+        "span": {
+          "begin": 6354,
+          "end": 6358
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "294"
+      },
+      {
+        "span": {
+          "begin": 7115,
+          "end": 7120
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "713"
+      },
+      {
+        "span": {
+          "begin": 7145,
+          "end": 7150
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "714"
+      },
+      {
+        "span": {
+          "begin": 7158,
+          "end": 7162
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:54Z",
+        "id": "787"
+      },
+      {
+        "span": {
+          "begin": 7158,
+          "end": 7162
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "637"
+      },
+      {
+        "span": {
+          "begin": 7187,
+          "end": 7192
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "715"
+      },
+      {
+        "span": {
+          "begin": 7200,
+          "end": 7204
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "22"
+      },
+      {
+        "span": {
+          "begin": 7200,
+          "end": 7204
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "295"
+      },
+      {
+        "span": {
+          "begin": 7220,
+          "end": 7224
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "23"
+      },
+      {
+        "span": {
+          "begin": 7220,
+          "end": 7224
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "296"
+      },
+      {
+        "span": {
+          "begin": 7250,
+          "end": 7254
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:54Z",
+        "id": "788"
+      },
+      {
+        "span": {
+          "begin": 7250,
+          "end": 7254
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "638"
+      },
+      {
+        "span": {
+          "begin": 7278,
+          "end": 7283
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "716"
+      },
+      {
+        "span": {
+          "begin": 7300,
+          "end": 7304
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:54Z",
+        "id": "789"
+      },
+      {
+        "span": {
+          "begin": 7300,
+          "end": 7304
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "639"
+      },
+      {
+        "span": {
+          "begin": 7320,
+          "end": 7324
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "24"
+      },
+      {
+        "span": {
+          "begin": 7320,
+          "end": 7324
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "297"
+      },
+      {
+        "span": {
+          "begin": 7341,
+          "end": 7345
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:54Z",
+        "id": "790"
+      },
+      {
+        "span": {
+          "begin": 7341,
+          "end": 7345
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "640"
+      },
+      {
+        "span": {
+          "begin": 7378,
+          "end": 7382
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:54Z",
+        "id": "791"
+      },
+      {
+        "span": {
+          "begin": 7378,
+          "end": 7382
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "641"
+      },
+      {
+        "span": {
+          "begin": 7398,
+          "end": 7402
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "25"
+      },
+      {
+        "span": {
+          "begin": 7398,
+          "end": 7402
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "298"
+      },
+      {
+        "span": {
+          "begin": 7434,
+          "end": 7438
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "26"
+      },
+      {
+        "span": {
+          "begin": 7434,
+          "end": 7438
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "299"
+      },
+      {
+        "span": {
+          "begin": 7458,
+          "end": 7462
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:54Z",
+        "id": "792"
+      },
+      {
+        "span": {
+          "begin": 7458,
+          "end": 7462
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "642"
+      },
+      {
+        "span": {
+          "begin": 7470,
+          "end": 7474
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "27"
+      },
+      {
+        "span": {
+          "begin": 7470,
+          "end": 7474
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "300"
+      },
+      {
+        "span": {
+          "begin": 7506,
+          "end": 7510
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "28"
+      },
+      {
+        "span": {
+          "begin": 7506,
+          "end": 7510
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "301"
+      },
+      {
+        "span": {
+          "begin": 7530,
+          "end": 7535
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "717"
+      },
+      {
+        "span": {
+          "begin": 7539,
+          "end": 7543
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "29"
+      },
+      {
+        "span": {
+          "begin": 7539,
+          "end": 7543
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "302"
+      },
+      {
+        "span": {
+          "begin": 7563,
+          "end": 7568
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "718"
+      },
+      {
+        "span": {
+          "begin": 7572,
+          "end": 7576
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:54Z",
+        "id": "793"
+      },
+      {
+        "span": {
+          "begin": 7572,
+          "end": 7576
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "643"
+      },
+      {
+        "span": {
+          "begin": 7584,
+          "end": 7588
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "30"
+      },
+      {
+        "span": {
+          "begin": 7584,
+          "end": 7588
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "303"
+      },
+      {
+        "span": {
+          "begin": 7608,
+          "end": 7613
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "719"
+      },
+      {
+        "span": {
+          "begin": 7629,
+          "end": 7633
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "31"
+      },
+      {
+        "span": {
+          "begin": 7629,
+          "end": 7633
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "304"
+      },
+      {
+        "span": {
+          "begin": 7664,
+          "end": 7668
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "32"
+      },
+      {
+        "span": {
+          "begin": 7664,
+          "end": 7668
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "305"
+      },
+      {
+        "span": {
+          "begin": 7723,
+          "end": 7728
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "720"
+      },
+      {
+        "span": {
+          "begin": 7774,
+          "end": 7779
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "721"
+      },
+      {
+        "span": {
+          "begin": 7802,
+          "end": 7806
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:54Z",
+        "id": "794"
+      },
+      {
+        "span": {
+          "begin": 7802,
+          "end": 7806
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "644"
+      },
+      {
+        "span": {
+          "begin": 7897,
+          "end": 7902
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "722"
+      },
+      {
+        "span": {
+          "begin": 8033,
+          "end": 8038
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "723"
+      },
+      {
+        "span": {
+          "begin": 8252,
+          "end": 8257
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "724"
+      },
+      {
+        "span": {
+          "begin": 8837,
+          "end": 8841
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:54Z",
+        "id": "795"
+      },
+      {
+        "span": {
+          "begin": 8837,
+          "end": 8841
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "645"
+      },
+      {
+        "span": {
+          "begin": 9180,
+          "end": 9184
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:54Z",
+        "id": "796"
+      },
+      {
+        "span": {
+          "begin": 9180,
+          "end": 9184
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "646"
+      },
+      {
+        "span": {
+          "begin": 9207,
+          "end": 9211
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "33"
+      },
+      {
+        "span": {
+          "begin": 9207,
+          "end": 9211
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "306"
+      },
+      {
+        "span": {
+          "begin": 9297,
+          "end": 9301
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "34"
+      },
+      {
+        "span": {
+          "begin": 9297,
+          "end": 9301
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "307"
+      },
+      {
+        "span": {
+          "begin": 9350,
+          "end": 9354
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:54Z",
+        "id": "797"
+      },
+      {
+        "span": {
+          "begin": 9350,
+          "end": 9354
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "647"
+      },
+      {
+        "span": {
+          "begin": 9407,
+          "end": 9411
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:54Z",
+        "id": "798"
+      },
+      {
+        "span": {
+          "begin": 9407,
+          "end": 9411
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "648"
+      },
+      {
+        "span": {
+          "begin": 9561,
+          "end": 9565
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:54Z",
+        "id": "799"
+      },
+      {
+        "span": {
+          "begin": 9561,
+          "end": 9565
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "649"
+      },
+      {
+        "span": {
+          "begin": 9608,
+          "end": 9613
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "725"
+      },
+      {
+        "span": {
+          "begin": 9628,
+          "end": 9632
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:54Z",
+        "id": "800"
+      },
+      {
+        "span": {
+          "begin": 9628,
+          "end": 9632
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "650"
+      },
+      {
+        "span": {
+          "begin": 9851,
+          "end": 9855
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:54Z",
+        "id": "801"
+      },
+      {
+        "span": {
+          "begin": 9851,
+          "end": 9855
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "651"
+      },
+      {
+        "span": {
+          "begin": 9955,
+          "end": 9959
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "35"
+      },
+      {
+        "span": {
+          "begin": 9955,
+          "end": 9959
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "308"
+      },
+      {
+        "span": {
+          "begin": 9975,
+          "end": 9979
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:54Z",
+        "id": "802"
+      },
+      {
+        "span": {
+          "begin": 9975,
+          "end": 9979
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "652"
+      },
+      {
+        "span": {
+          "begin": 10035,
+          "end": 10039
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "36"
+      },
+      {
+        "span": {
+          "begin": 10035,
+          "end": 10039
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "309"
+      },
+      {
+        "span": {
+          "begin": 10056,
+          "end": 10060
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:54Z",
+        "id": "803"
+      },
+      {
+        "span": {
+          "begin": 10056,
+          "end": 10060
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "653"
+      },
+      {
+        "span": {
+          "begin": 10085,
+          "end": 10089
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:54Z",
+        "id": "804"
+      },
+      {
+        "span": {
+          "begin": 10085,
+          "end": 10089
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "654"
+      },
+      {
+        "span": {
+          "begin": 10152,
+          "end": 10156
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:54Z",
+        "id": "805"
+      },
+      {
+        "span": {
+          "begin": 10152,
+          "end": 10156
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "655"
+      },
+      {
+        "span": {
+          "begin": 10329,
+          "end": 10333
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:54Z",
+        "id": "806"
+      },
+      {
+        "span": {
+          "begin": 10329,
+          "end": 10333
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "656"
+      },
+      {
+        "span": {
+          "begin": 10393,
+          "end": 10397
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:54Z",
+        "id": "807"
+      },
+      {
+        "span": {
+          "begin": 10393,
+          "end": 10397
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "657"
+      },
+      {
+        "span": {
+          "begin": 10536,
+          "end": 10540
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "37"
+      },
+      {
+        "span": {
+          "begin": 10536,
+          "end": 10540
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "310"
+      },
+      {
+        "span": {
+          "begin": 10595,
+          "end": 10599
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:54Z",
+        "id": "808"
+      },
+      {
+        "span": {
+          "begin": 10595,
+          "end": 10599
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "658"
+      },
+      {
+        "span": {
+          "begin": 10701,
+          "end": 10705
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "38"
+      },
+      {
+        "span": {
+          "begin": 10701,
+          "end": 10705
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "311"
+      },
+      {
+        "span": {
+          "begin": 11428,
+          "end": 11432
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "39"
+      },
+      {
+        "span": {
+          "begin": 11428,
+          "end": 11432
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "312"
+      },
+      {
+        "span": {
+          "begin": 11559,
+          "end": 11563
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "40"
+      },
+      {
+        "span": {
+          "begin": 11559,
+          "end": 11563
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "313"
+      },
+      {
+        "span": {
+          "begin": 12019,
+          "end": 12023
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:54Z",
+        "id": "809"
+      },
+      {
+        "span": {
+          "begin": 12019,
+          "end": 12023
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "659"
+      },
+      {
+        "span": {
+          "begin": 12088,
+          "end": 12092
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "41"
+      },
+      {
+        "span": {
+          "begin": 12088,
+          "end": 12092
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "314"
+      },
+      {
+        "span": {
+          "begin": 12132,
+          "end": 12136
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:54Z",
+        "id": "810"
+      },
+      {
+        "span": {
+          "begin": 12132,
+          "end": 12136
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "660"
+      },
+      {
+        "span": {
+          "begin": 12191,
+          "end": 12195
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "42"
+      },
+      {
+        "span": {
+          "begin": 12191,
+          "end": 12195
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "315"
+      },
+      {
+        "span": {
+          "begin": 12244,
+          "end": 12249
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "726"
+      },
+      {
+        "span": {
+          "begin": 12329,
+          "end": 12333
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "43"
+      },
+      {
+        "span": {
+          "begin": 12329,
+          "end": 12333
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "316"
+      },
+      {
+        "span": {
+          "begin": 12453,
+          "end": 12457
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "44"
+      },
+      {
+        "span": {
+          "begin": 12453,
+          "end": 12457
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "317"
+      },
+      {
+        "span": {
+          "begin": 12548,
+          "end": 12552
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "45"
+      },
+      {
+        "span": {
+          "begin": 12548,
+          "end": 12552
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "318"
+      },
+      {
+        "span": {
+          "begin": 12554,
+          "end": 12558
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "46"
+      },
+      {
+        "span": {
+          "begin": 12554,
+          "end": 12558
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "319"
+      },
+      {
+        "span": {
+          "begin": 12575,
+          "end": 12579
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "47"
+      },
+      {
+        "span": {
+          "begin": 12575,
+          "end": 12579
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "320"
+      },
+      {
+        "span": {
+          "begin": 12657,
+          "end": 12661
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "48"
+      },
+      {
+        "span": {
+          "begin": 12657,
+          "end": 12661
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "321"
+      },
+      {
+        "span": {
+          "begin": 12752,
+          "end": 12756
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "49"
+      },
+      {
+        "span": {
+          "begin": 12752,
+          "end": 12756
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "322"
+      },
+      {
+        "span": {
+          "begin": 12790,
+          "end": 12794
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "50"
+      },
+      {
+        "span": {
+          "begin": 12790,
+          "end": 12794
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "323"
+      },
+      {
+        "span": {
+          "begin": 13141,
+          "end": 13145
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "51"
+      },
+      {
+        "span": {
+          "begin": 13141,
+          "end": 13145
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "324"
+      },
+      {
+        "span": {
+          "begin": 13236,
+          "end": 13240
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "52"
+      },
+      {
+        "span": {
+          "begin": 13236,
+          "end": 13240
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "325"
+      },
+      {
+        "span": {
+          "begin": 13407,
+          "end": 13411
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "53"
+      },
+      {
+        "span": {
+          "begin": 13407,
+          "end": 13411
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "326"
+      },
+      {
+        "span": {
+          "begin": 13488,
+          "end": 13492
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "54"
+      },
+      {
+        "span": {
+          "begin": 13488,
+          "end": 13492
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "327"
+      },
+      {
+        "span": {
+          "begin": 13576,
+          "end": 13580
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "55"
+      },
+      {
+        "span": {
+          "begin": 13576,
+          "end": 13580
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "328"
+      },
+      {
+        "span": {
+          "begin": 13646,
+          "end": 13651
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "727"
+      },
+      {
+        "span": {
+          "begin": 13876,
+          "end": 13880
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "56"
+      },
+      {
+        "span": {
+          "begin": 13876,
+          "end": 13880
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "329"
+      },
+      {
+        "span": {
+          "begin": 14061,
+          "end": 14066
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "728"
+      },
+      {
+        "span": {
+          "begin": 14142,
+          "end": 14146
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "57"
+      },
+      {
+        "span": {
+          "begin": 14142,
+          "end": 14146
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "330"
+      },
+      {
+        "span": {
+          "begin": 14286,
+          "end": 14290
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "58"
+      },
+      {
+        "span": {
+          "begin": 14286,
+          "end": 14290
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "331"
+      },
+      {
+        "span": {
+          "begin": 14338,
+          "end": 14342
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "59"
+      },
+      {
+        "span": {
+          "begin": 14338,
+          "end": 14342
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "332"
+      },
+      {
+        "span": {
+          "begin": 14406,
+          "end": 14410
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "60"
+      },
+      {
+        "span": {
+          "begin": 14406,
+          "end": 14410
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "333"
+      },
+      {
+        "span": {
+          "begin": 14430,
+          "end": 14434
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "61"
+      },
+      {
+        "span": {
+          "begin": 14430,
+          "end": 14434
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "334"
+      },
+      {
+        "span": {
+          "begin": 14524,
+          "end": 14528
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "62"
+      },
+      {
+        "span": {
+          "begin": 14524,
+          "end": 14528
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "335"
+      },
+      {
+        "span": {
+          "begin": 14625,
+          "end": 14629
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "63"
+      },
+      {
+        "span": {
+          "begin": 14625,
+          "end": 14629
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "336"
+      },
+      {
+        "span": {
+          "begin": 14798,
+          "end": 14802
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "64"
+      },
+      {
+        "span": {
+          "begin": 14798,
+          "end": 14802
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "337"
+      },
+      {
+        "span": {
+          "begin": 14898,
+          "end": 14902
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "65"
+      },
+      {
+        "span": {
+          "begin": 14898,
+          "end": 14902
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "338"
+      },
+      {
+        "span": {
+          "begin": 15024,
+          "end": 15028
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "66"
+      },
+      {
+        "span": {
+          "begin": 15024,
+          "end": 15028
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "339"
+      },
+      {
+        "span": {
+          "begin": 15056,
+          "end": 15060
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "67"
+      },
+      {
+        "span": {
+          "begin": 15056,
+          "end": 15060
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "340"
+      },
+      {
+        "span": {
+          "begin": 15213,
+          "end": 15217
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "68"
+      },
+      {
+        "span": {
+          "begin": 15213,
+          "end": 15217
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "341"
+      },
+      {
+        "span": {
+          "begin": 15332,
+          "end": 15336
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "69"
+      },
+      {
+        "span": {
+          "begin": 15332,
+          "end": 15336
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "342"
+      },
+      {
+        "span": {
+          "begin": 15557,
+          "end": 15561
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "70"
+      },
+      {
+        "span": {
+          "begin": 15557,
+          "end": 15561
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "343"
+      },
+      {
+        "span": {
+          "begin": 16058,
+          "end": 16062
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "71"
+      },
+      {
+        "span": {
+          "begin": 16058,
+          "end": 16062
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "344"
+      },
+      {
+        "span": {
+          "begin": 16181,
+          "end": 16185
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "72"
+      },
+      {
+        "span": {
+          "begin": 16181,
+          "end": 16185
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "345"
+      },
+      {
+        "span": {
+          "begin": 16268,
+          "end": 16272
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "73"
+      },
+      {
+        "span": {
+          "begin": 16268,
+          "end": 16272
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "346"
+      },
+      {
+        "span": {
+          "begin": 16414,
+          "end": 16418
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "74"
+      },
+      {
+        "span": {
+          "begin": 16414,
+          "end": 16418
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "347"
+      },
+      {
+        "span": {
+          "begin": 16553,
+          "end": 16557
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "75"
+      },
+      {
+        "span": {
+          "begin": 16553,
+          "end": 16557
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "348"
+      },
+      {
+        "span": {
+          "begin": 16761,
+          "end": 16765
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "76"
+      },
+      {
+        "span": {
+          "begin": 16761,
+          "end": 16765
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "349"
+      },
+      {
+        "span": {
+          "begin": 17147,
+          "end": 17151
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "77"
+      },
+      {
+        "span": {
+          "begin": 17147,
+          "end": 17151
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "350"
+      },
+      {
+        "span": {
+          "begin": 17225,
+          "end": 17229
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "78"
+      },
+      {
+        "span": {
+          "begin": 17225,
+          "end": 17229
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "351"
+      },
+      {
+        "span": {
+          "begin": 17526,
+          "end": 17530
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "79"
+      },
+      {
+        "span": {
+          "begin": 17526,
+          "end": 17530
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "352"
+      },
+      {
+        "span": {
+          "begin": 18025,
+          "end": 18029
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "80"
+      },
+      {
+        "span": {
+          "begin": 18025,
+          "end": 18029
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "353"
+      },
+      {
+        "span": {
+          "begin": 18248,
+          "end": 18252
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "81"
+      },
+      {
+        "span": {
+          "begin": 18248,
+          "end": 18252
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "354"
+      },
+      {
+        "span": {
+          "begin": 18288,
+          "end": 18292
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:54Z",
+        "id": "811"
+      },
+      {
+        "span": {
+          "begin": 18288,
+          "end": 18292
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "661"
+      },
+      {
+        "span": {
+          "begin": 18350,
+          "end": 18354
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "82"
+      },
+      {
+        "span": {
+          "begin": 18350,
+          "end": 18354
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "355"
+      },
+      {
+        "span": {
+          "begin": 18411,
+          "end": 18415
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "83"
+      },
+      {
+        "span": {
+          "begin": 18411,
+          "end": 18415
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "356"
+      },
+      {
+        "span": {
+          "begin": 18547,
+          "end": 18551
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "84"
+      },
+      {
+        "span": {
+          "begin": 18547,
+          "end": 18551
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "357"
+      },
+      {
+        "span": {
+          "begin": 18681,
+          "end": 18686
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "729"
+      },
+      {
+        "span": {
+          "begin": 18690,
+          "end": 18694
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "85"
+      },
+      {
+        "span": {
+          "begin": 18690,
+          "end": 18694
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "358"
+      },
+      {
+        "span": {
+          "begin": 18792,
+          "end": 18796
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "86"
+      },
+      {
+        "span": {
+          "begin": 18792,
+          "end": 18796
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "359"
+      },
+      {
+        "span": {
+          "begin": 18919,
+          "end": 18924
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "730"
+      },
+      {
+        "span": {
+          "begin": 18928,
+          "end": 18932
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "87"
+      },
+      {
+        "span": {
+          "begin": 18928,
+          "end": 18932
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "360"
+      },
+      {
+        "span": {
+          "begin": 18955,
+          "end": 18959
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "88"
+      },
+      {
+        "span": {
+          "begin": 18955,
+          "end": 18959
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "361"
+      },
+      {
+        "span": {
+          "begin": 19082,
+          "end": 19086
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "89"
+      },
+      {
+        "span": {
+          "begin": 19082,
+          "end": 19086
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "362"
+      },
+      {
+        "span": {
+          "begin": 19224,
+          "end": 19228
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "90"
+      },
+      {
+        "span": {
+          "begin": 19224,
+          "end": 19228
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "363"
+      },
+      {
+        "span": {
+          "begin": 19376,
+          "end": 19380
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "91"
+      },
+      {
+        "span": {
+          "begin": 19376,
+          "end": 19380
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "364"
+      },
+      {
+        "span": {
+          "begin": 19489,
+          "end": 19493
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "92"
+      },
+      {
+        "span": {
+          "begin": 19489,
+          "end": 19493
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "365"
+      },
+      {
+        "span": {
+          "begin": 19568,
+          "end": 19572
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "93"
+      },
+      {
+        "span": {
+          "begin": 19568,
+          "end": 19572
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "366"
+      },
+      {
+        "span": {
+          "begin": 19659,
+          "end": 19663
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "94"
+      },
+      {
+        "span": {
+          "begin": 19659,
+          "end": 19663
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "367"
+      },
+      {
+        "span": {
+          "begin": 19773,
+          "end": 19777
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "95"
+      },
+      {
+        "span": {
+          "begin": 19773,
+          "end": 19777
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "368"
+      },
+      {
+        "span": {
+          "begin": 19835,
+          "end": 19839
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:52Z",
+        "id": "96"
+      },
+      {
+        "span": {
+          "begin": 19835,
+          "end": 19839
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "369"
+      },
+      {
+        "span": {
+          "begin": 19972,
+          "end": 19976
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "97"
+      },
+      {
+        "span": {
+          "begin": 19972,
+          "end": 19976
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "370"
+      },
+      {
+        "span": {
+          "begin": 20121,
+          "end": 20125
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "98"
+      },
+      {
+        "span": {
+          "begin": 20121,
+          "end": 20125
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "371"
+      },
+      {
+        "span": {
+          "begin": 20221,
+          "end": 20225
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "99"
+      },
+      {
+        "span": {
+          "begin": 20221,
+          "end": 20225
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "372"
+      },
+      {
+        "span": {
+          "begin": 20343,
+          "end": 20347
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "100"
+      },
+      {
+        "span": {
+          "begin": 20343,
+          "end": 20347
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "373"
+      },
+      {
+        "span": {
+          "begin": 20368,
+          "end": 20372
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "101"
+      },
+      {
+        "span": {
+          "begin": 20368,
+          "end": 20372
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "374"
+      },
+      {
+        "span": {
+          "begin": 20496,
+          "end": 20500
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "102"
+      },
+      {
+        "span": {
+          "begin": 20496,
+          "end": 20500
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "375"
+      },
+      {
+        "span": {
+          "begin": 20570,
+          "end": 20574
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "103"
+      },
+      {
+        "span": {
+          "begin": 20570,
+          "end": 20574
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "376"
+      },
+      {
+        "span": {
+          "begin": 20622,
+          "end": 20626
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "104"
+      },
+      {
+        "span": {
+          "begin": 20622,
+          "end": 20626
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "377"
+      },
+      {
+        "span": {
+          "begin": 20677,
+          "end": 20681
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "105"
+      },
+      {
+        "span": {
+          "begin": 20677,
+          "end": 20681
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "378"
+      },
+      {
+        "span": {
+          "begin": 20748,
+          "end": 20752
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "106"
+      },
+      {
+        "span": {
+          "begin": 20748,
+          "end": 20752
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "379"
+      },
+      {
+        "span": {
+          "begin": 20900,
+          "end": 20904
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "107"
+      },
+      {
+        "span": {
+          "begin": 20900,
+          "end": 20904
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "380"
+      },
+      {
+        "span": {
+          "begin": 21119,
+          "end": 21123
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "108"
+      },
+      {
+        "span": {
+          "begin": 21119,
+          "end": 21123
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "381"
+      },
+      {
+        "span": {
+          "begin": 21167,
+          "end": 21171
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "109"
+      },
+      {
+        "span": {
+          "begin": 21167,
+          "end": 21171
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "382"
+      },
+      {
+        "span": {
+          "begin": 21525,
+          "end": 21529
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "110"
+      },
+      {
+        "span": {
+          "begin": 21525,
+          "end": 21529
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "383"
+      },
+      {
+        "span": {
+          "begin": 21570,
+          "end": 21574
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "111"
+      },
+      {
+        "span": {
+          "begin": 21570,
+          "end": 21574
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "384"
+      },
+      {
+        "span": {
+          "begin": 21749,
+          "end": 21753
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "112"
+      },
+      {
+        "span": {
+          "begin": 21749,
+          "end": 21753
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "385"
+      },
+      {
+        "span": {
+          "begin": 21790,
+          "end": 21794
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "113"
+      },
+      {
+        "span": {
+          "begin": 21790,
+          "end": 21794
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "386"
+      },
+      {
+        "span": {
+          "begin": 21862,
+          "end": 21866
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "114"
+      },
+      {
+        "span": {
+          "begin": 21862,
+          "end": 21866
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "387"
+      },
+      {
+        "span": {
+          "begin": 21965,
+          "end": 21969
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "115"
+      },
+      {
+        "span": {
+          "begin": 21965,
+          "end": 21969
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "388"
+      },
+      {
+        "span": {
+          "begin": 22003,
+          "end": 22007
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "116"
+      },
+      {
+        "span": {
+          "begin": 22003,
+          "end": 22007
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "389"
+      },
+      {
+        "span": {
+          "begin": 22038,
+          "end": 22042
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "117"
+      },
+      {
+        "span": {
+          "begin": 22038,
+          "end": 22042
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "390"
+      },
+      {
+        "span": {
+          "begin": 22121,
+          "end": 22126
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "731"
+      },
+      {
+        "span": {
+          "begin": 22165,
+          "end": 22169
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:54Z",
+        "id": "812"
+      },
+      {
+        "span": {
+          "begin": 22165,
+          "end": 22169
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "662"
+      },
+      {
+        "span": {
+          "begin": 22198,
+          "end": 22203
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "732"
+      },
+      {
+        "span": {
+          "begin": 22235,
+          "end": 22239
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:55Z",
+        "id": "813"
+      },
+      {
+        "span": {
+          "begin": 22235,
+          "end": 22239
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "663"
+      },
+      {
+        "span": {
+          "begin": 22328,
+          "end": 22333
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "733"
+      },
+      {
+        "span": {
+          "begin": 22364,
+          "end": 22369
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "734"
+      },
+      {
+        "span": {
+          "begin": 22532,
+          "end": 22536
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "118"
+      },
+      {
+        "span": {
+          "begin": 22532,
+          "end": 22536
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "391"
+      },
+      {
+        "span": {
+          "begin": 22592,
+          "end": 22597
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "735"
+      },
+      {
+        "span": {
+          "begin": 22669,
+          "end": 22674
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "736"
+      },
+      {
+        "span": {
+          "begin": 22858,
+          "end": 22862
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "119"
+      },
+      {
+        "span": {
+          "begin": 22858,
+          "end": 22862
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "392"
+      },
+      {
+        "span": {
+          "begin": 23334,
+          "end": 23338
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "120"
+      },
+      {
+        "span": {
+          "begin": 23334,
+          "end": 23338
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "393"
+      },
+      {
+        "span": {
+          "begin": 23342,
+          "end": 23346
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "664"
+      },
+      {
+        "span": {
+          "begin": 23342,
+          "end": 23346
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:55Z",
+        "id": "814"
+      },
+      {
+        "span": {
+          "begin": 23423,
+          "end": 23428
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "737"
+      },
+      {
+        "span": {
+          "begin": 23479,
+          "end": 23483
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "665"
+      },
+      {
+        "span": {
+          "begin": 23479,
+          "end": 23483
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:55Z",
+        "id": "815"
+      },
+      {
+        "span": {
+          "begin": 23592,
+          "end": 23596
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "666"
+      },
+      {
+        "span": {
+          "begin": 23592,
+          "end": 23596
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:55Z",
+        "id": "816"
+      },
+      {
+        "span": {
+          "begin": 23607,
+          "end": 23611
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "121"
+      },
+      {
+        "span": {
+          "begin": 23607,
+          "end": 23611
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "394"
+      },
+      {
+        "span": {
+          "begin": 23625,
+          "end": 23629
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "667"
+      },
+      {
+        "span": {
+          "begin": 23625,
+          "end": 23629
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:55Z",
+        "id": "817"
+      },
+      {
+        "span": {
+          "begin": 23782,
+          "end": 23786
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "122"
+      },
+      {
+        "span": {
+          "begin": 23782,
+          "end": 23786
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "395"
+      },
+      {
+        "span": {
+          "begin": 23808,
+          "end": 23812
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "668"
+      },
+      {
+        "span": {
+          "begin": 23808,
+          "end": 23812
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:55Z",
+        "id": "818"
+      },
+      {
+        "span": {
+          "begin": 23823,
+          "end": 23827
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "123"
+      },
+      {
+        "span": {
+          "begin": 23823,
+          "end": 23827
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "396"
+      },
+      {
+        "span": {
+          "begin": 23932,
+          "end": 23936
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "669"
+      },
+      {
+        "span": {
+          "begin": 23932,
+          "end": 23936
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:55Z",
+        "id": "819"
+      },
+      {
+        "span": {
+          "begin": 23998,
+          "end": 24002
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "670"
+      },
+      {
+        "span": {
+          "begin": 23998,
+          "end": 24002
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:55Z",
+        "id": "820"
+      },
+      {
+        "span": {
+          "begin": 24250,
+          "end": 24254
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "124"
+      },
+      {
+        "span": {
+          "begin": 24250,
+          "end": 24254
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "397"
+      },
+      {
+        "span": {
+          "begin": 24293,
+          "end": 24298
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "738"
+      },
+      {
+        "span": {
+          "begin": 24357,
+          "end": 24361
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "125"
+      },
+      {
+        "span": {
+          "begin": 24357,
+          "end": 24361
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "398"
+      },
+      {
+        "span": {
+          "begin": 24390,
+          "end": 24394
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "671"
+      },
+      {
+        "span": {
+          "begin": 24390,
+          "end": 24394
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:55Z",
+        "id": "821"
+      },
+      {
+        "span": {
+          "begin": 24515,
+          "end": 24520
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "739"
+      },
+      {
+        "span": {
+          "begin": 24538,
+          "end": 24542
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "672"
+      },
+      {
+        "span": {
+          "begin": 24538,
+          "end": 24542
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:55Z",
+        "id": "822"
+      },
+      {
+        "span": {
+          "begin": 24578,
+          "end": 24583
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "740"
+      },
+      {
+        "span": {
+          "begin": 24676,
+          "end": 24680
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "673"
+      },
+      {
+        "span": {
+          "begin": 24676,
+          "end": 24680
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:55Z",
+        "id": "823"
+      },
+      {
+        "span": {
+          "begin": 24691,
+          "end": 24695
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "126"
+      },
+      {
+        "span": {
+          "begin": 24691,
+          "end": 24695
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "399"
+      },
+      {
+        "span": {
+          "begin": 24710,
+          "end": 24714
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "674"
+      },
+      {
+        "span": {
+          "begin": 24710,
+          "end": 24714
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:55Z",
+        "id": "824"
+      },
+      {
+        "span": {
+          "begin": 24739,
+          "end": 24744
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "741"
+      },
+      {
+        "span": {
+          "begin": 24768,
+          "end": 24772
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "127"
+      },
+      {
+        "span": {
+          "begin": 24768,
+          "end": 24772
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "400"
+      },
+      {
+        "span": {
+          "begin": 24865,
+          "end": 24870
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "742"
+      },
+      {
+        "span": {
+          "begin": 24899,
+          "end": 24904
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "743"
+      },
+      {
+        "span": {
+          "begin": 24936,
+          "end": 24940
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "128"
+      },
+      {
+        "span": {
+          "begin": 24936,
+          "end": 24940
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "401"
+      },
+      {
+        "span": {
+          "begin": 25064,
+          "end": 25069
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "744"
+      },
+      {
+        "span": {
+          "begin": 25087,
+          "end": 25091
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "675"
+      },
+      {
+        "span": {
+          "begin": 25087,
+          "end": 25091
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:55Z",
+        "id": "825"
+      },
+      {
+        "span": {
+          "begin": 25127,
+          "end": 25132
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "745"
+      },
+      {
+        "span": {
+          "begin": 25173,
+          "end": 25178
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "746"
+      },
+      {
+        "span": {
+          "begin": 25243,
+          "end": 25247
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "676"
+      },
+      {
+        "span": {
+          "begin": 25243,
+          "end": 25247
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:55Z",
+        "id": "826"
+      },
+      {
+        "span": {
+          "begin": 25307,
+          "end": 25311
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "677"
+      },
+      {
+        "span": {
+          "begin": 25307,
+          "end": 25311
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:55Z",
+        "id": "827"
+      },
+      {
+        "span": {
+          "begin": 25335,
+          "end": 25340
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "747"
+      },
+      {
+        "span": {
+          "begin": 25376,
+          "end": 25381
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "748"
+      },
+      {
+        "span": {
+          "begin": 25417,
+          "end": 25421
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "678"
+      },
+      {
+        "span": {
+          "begin": 25417,
+          "end": 25421
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:55Z",
+        "id": "828"
+      },
+      {
+        "span": {
+          "begin": 25536,
+          "end": 25541
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "749"
+      },
+      {
+        "span": {
+          "begin": 25626,
+          "end": 25630
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "679"
+      },
+      {
+        "span": {
+          "begin": 25626,
+          "end": 25630
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:55Z",
+        "id": "829"
+      },
+      {
+        "span": {
+          "begin": 25782,
+          "end": 25786
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "680"
+      },
+      {
+        "span": {
+          "begin": 25782,
+          "end": 25786
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:55Z",
+        "id": "830"
+      },
+      {
+        "span": {
+          "begin": 25978,
+          "end": 25982
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "129"
+      },
+      {
+        "span": {
+          "begin": 25978,
+          "end": 25982
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "402"
+      },
+      {
+        "span": {
+          "begin": 26546,
+          "end": 26550
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "130"
+      },
+      {
+        "span": {
+          "begin": 26546,
+          "end": 26550
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "403"
+      },
+      {
+        "span": {
+          "begin": 26604,
+          "end": 26608
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "131"
+      },
+      {
+        "span": {
+          "begin": 26604,
+          "end": 26608
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "404"
+      },
+      {
+        "span": {
+          "begin": 26678,
+          "end": 26682
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "132"
+      },
+      {
+        "span": {
+          "begin": 26678,
+          "end": 26682
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "405"
+      },
+      {
+        "span": {
+          "begin": 26745,
+          "end": 26749
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "133"
+      },
+      {
+        "span": {
+          "begin": 26745,
+          "end": 26749
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "406"
+      },
+      {
+        "span": {
+          "begin": 26938,
+          "end": 26942
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "134"
+      },
+      {
+        "span": {
+          "begin": 26938,
+          "end": 26942
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "407"
+      },
+      {
+        "span": {
+          "begin": 26974,
+          "end": 26978
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "681"
+      },
+      {
+        "span": {
+          "begin": 26974,
+          "end": 26978
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:55Z",
+        "id": "831"
+      },
+      {
+        "span": {
+          "begin": 26995,
+          "end": 26999
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "135"
+      },
+      {
+        "span": {
+          "begin": 26995,
+          "end": 26999
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "408"
+      },
+      {
+        "span": {
+          "begin": 27107,
+          "end": 27112
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "750"
+      },
+      {
+        "span": {
+          "begin": 27141,
+          "end": 27145
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "136"
+      },
+      {
+        "span": {
+          "begin": 27141,
+          "end": 27145
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "409"
+      },
+      {
+        "span": {
+          "begin": 27189,
+          "end": 27193
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "137"
+      },
+      {
+        "span": {
+          "begin": 27189,
+          "end": 27193
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "410"
+      },
+      {
+        "span": {
+          "begin": 27295,
+          "end": 27299
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "138"
+      },
+      {
+        "span": {
+          "begin": 27295,
+          "end": 27299
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "411"
+      },
+      {
+        "span": {
+          "begin": 27400,
+          "end": 27404
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "139"
+      },
+      {
+        "span": {
+          "begin": 27400,
+          "end": 27404
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "412"
+      },
+      {
+        "span": {
+          "begin": 27454,
+          "end": 27458
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "140"
+      },
+      {
+        "span": {
+          "begin": 27454,
+          "end": 27458
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "413"
+      },
+      {
+        "span": {
+          "begin": 27563,
+          "end": 27567
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "141"
+      },
+      {
+        "span": {
+          "begin": 27563,
+          "end": 27567
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "414"
+      },
+      {
+        "span": {
+          "begin": 27716,
+          "end": 27720
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "682"
+      },
+      {
+        "span": {
+          "begin": 27716,
+          "end": 27720
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:55Z",
+        "id": "832"
+      },
+      {
+        "span": {
+          "begin": 27850,
+          "end": 27854
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "142"
+      },
+      {
+        "span": {
+          "begin": 27850,
+          "end": 27854
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "415"
+      },
+      {
+        "span": {
+          "begin": 27941,
+          "end": 27945
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "143"
+      },
+      {
+        "span": {
+          "begin": 27941,
+          "end": 27945
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "416"
+      },
+      {
+        "span": {
+          "begin": 28016,
+          "end": 28020
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "144"
+      },
+      {
+        "span": {
+          "begin": 28016,
+          "end": 28020
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "417"
+      },
+      {
+        "span": {
+          "begin": 28115,
+          "end": 28119
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "145"
+      },
+      {
+        "span": {
+          "begin": 28115,
+          "end": 28119
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "418"
+      },
+      {
+        "span": {
+          "begin": 28335,
+          "end": 28339
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "146"
+      },
+      {
+        "span": {
+          "begin": 28335,
+          "end": 28339
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "419"
+      },
+      {
+        "span": {
+          "begin": 28363,
+          "end": 28367
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "147"
+      },
+      {
+        "span": {
+          "begin": 28363,
+          "end": 28367
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "420"
+      },
+      {
+        "span": {
+          "begin": 28489,
+          "end": 28493
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "148"
+      },
+      {
+        "span": {
+          "begin": 28489,
+          "end": 28493
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "421"
+      },
+      {
+        "span": {
+          "begin": 28546,
+          "end": 28550
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "422"
+      },
+      {
+        "span": {
+          "begin": 28546,
+          "end": 28550
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "149"
+      },
+      {
+        "span": {
+          "begin": 28643,
+          "end": 28647
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "423"
+      },
+      {
+        "span": {
+          "begin": 28643,
+          "end": 28647
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "150"
+      },
+      {
+        "span": {
+          "begin": 28759,
+          "end": 28763
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "424"
+      },
+      {
+        "span": {
+          "begin": 28759,
+          "end": 28763
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "151"
+      },
+      {
+        "span": {
+          "begin": 28854,
+          "end": 28858
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "425"
+      },
+      {
+        "span": {
+          "begin": 28854,
+          "end": 28858
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "152"
+      },
+      {
+        "span": {
+          "begin": 28923,
+          "end": 28927
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "426"
+      },
+      {
+        "span": {
+          "begin": 28923,
+          "end": 28927
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "153"
+      },
+      {
+        "span": {
+          "begin": 29872,
+          "end": 29876
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "427"
+      },
+      {
+        "span": {
+          "begin": 29872,
+          "end": 29876
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "154"
+      },
+      {
+        "span": {
+          "begin": 29914,
+          "end": 29918
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "428"
+      },
+      {
+        "span": {
+          "begin": 29914,
+          "end": 29918
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "155"
+      },
+      {
+        "span": {
+          "begin": 30016,
+          "end": 30020
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "429"
+      },
+      {
+        "span": {
+          "begin": 30016,
+          "end": 30020
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "156"
+      },
+      {
+        "span": {
+          "begin": 30137,
+          "end": 30141
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "430"
+      },
+      {
+        "span": {
+          "begin": 30137,
+          "end": 30141
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "157"
+      },
+      {
+        "span": {
+          "begin": 30221,
+          "end": 30225
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "431"
+      },
+      {
+        "span": {
+          "begin": 30221,
+          "end": 30225
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "158"
+      },
+      {
+        "span": {
+          "begin": 30310,
+          "end": 30314
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "432"
+      },
+      {
+        "span": {
+          "begin": 30310,
+          "end": 30314
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "159"
+      },
+      {
+        "span": {
+          "begin": 30472,
+          "end": 30476
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "433"
+      },
+      {
+        "span": {
+          "begin": 30472,
+          "end": 30476
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "160"
+      },
+      {
+        "span": {
+          "begin": 30576,
+          "end": 30580
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "434"
+      },
+      {
+        "span": {
+          "begin": 30576,
+          "end": 30580
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "161"
+      },
+      {
+        "span": {
+          "begin": 31027,
+          "end": 31031
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "435"
+      },
+      {
+        "span": {
+          "begin": 31027,
+          "end": 31031
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "162"
+      },
+      {
+        "span": {
+          "begin": 31353,
+          "end": 31357
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "436"
+      },
+      {
+        "span": {
+          "begin": 31353,
+          "end": 31357
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "163"
+      },
+      {
+        "span": {
+          "begin": 31548,
+          "end": 31552
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "437"
+      },
+      {
+        "span": {
+          "begin": 31548,
+          "end": 31552
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "164"
+      },
+      {
+        "span": {
+          "begin": 31804,
+          "end": 31808
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "438"
+      },
+      {
+        "span": {
+          "begin": 31804,
+          "end": 31808
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "165"
+      },
+      {
+        "span": {
+          "begin": 32205,
+          "end": 32209
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "439"
+      },
+      {
+        "span": {
+          "begin": 32205,
+          "end": 32209
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "166"
+      },
+      {
+        "span": {
+          "begin": 32490,
+          "end": 32495
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "751"
+      },
+      {
+        "span": {
+          "begin": 32523,
+          "end": 32527
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "440"
+      },
+      {
+        "span": {
+          "begin": 32523,
+          "end": 32527
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "167"
+      },
+      {
+        "span": {
+          "begin": 33141,
+          "end": 33145
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "441"
+      },
+      {
+        "span": {
+          "begin": 33141,
+          "end": 33145
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "168"
+      },
+      {
+        "span": {
+          "begin": 33208,
+          "end": 33213
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "752"
+      },
+      {
+        "span": {
+          "begin": 33359,
+          "end": 33364
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "753"
+      },
+      {
+        "span": {
+          "begin": 33707,
+          "end": 33712
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "754"
+      },
+      {
+        "span": {
+          "begin": 33737,
+          "end": 33741
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "683"
+      },
+      {
+        "span": {
+          "begin": 33737,
+          "end": 33741
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:55Z",
+        "id": "833"
+      },
+      {
+        "span": {
+          "begin": 33975,
+          "end": 33980
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "755"
+      },
+      {
+        "span": {
+          "begin": 33985,
+          "end": 33989
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "442"
+      },
+      {
+        "span": {
+          "begin": 33985,
+          "end": 33989
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "169"
+      },
+      {
+        "span": {
+          "begin": 34220,
+          "end": 34225
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "756"
+      },
+      {
+        "span": {
+          "begin": 34290,
+          "end": 34294
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "443"
+      },
+      {
+        "span": {
+          "begin": 34290,
+          "end": 34294
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "170"
+      },
+      {
+        "span": {
+          "begin": 35116,
+          "end": 35120
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "444"
+      },
+      {
+        "span": {
+          "begin": 35116,
+          "end": 35120
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "171"
+      },
+      {
+        "span": {
+          "begin": 35414,
+          "end": 35419
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "757"
+      },
+      {
+        "span": {
+          "begin": 35550,
+          "end": 35554
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "684"
+      },
+      {
+        "span": {
+          "begin": 35550,
+          "end": 35554
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:55Z",
+        "id": "834"
+      },
+      {
+        "span": {
+          "begin": 35578,
+          "end": 35583
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "758"
+      },
+      {
+        "span": {
+          "begin": 35771,
+          "end": 35775
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "445"
+      },
+      {
+        "span": {
+          "begin": 35771,
+          "end": 35775
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "172"
+      },
+      {
+        "span": {
+          "begin": 35961,
+          "end": 35965
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "685"
+      },
+      {
+        "span": {
+          "begin": 35961,
+          "end": 35965
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:55Z",
+        "id": "835"
+      },
+      {
+        "span": {
+          "begin": 36351,
+          "end": 36355
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:54Z",
+        "id": "772"
+      },
+      {
+        "span": {
+          "begin": 36351,
+          "end": 36355
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "622"
+      },
+      {
+        "span": {
+          "begin": 36406,
+          "end": 36410
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:54Z",
+        "id": "620"
+      },
+      {
+        "span": {
+          "begin": 36406,
+          "end": 36410
+        },
+        "obj": "Gene,GENE:853252,john,2021-04-13T15:11:53Z",
+        "id": "621"
+      },
+      {
+        "span": {
+          "begin": 36415,
+          "end": 36420
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "699"
+      },
+      {
+        "span": {
+          "begin": 36448,
+          "end": 36452
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "686"
+      },
+      {
+        "span": {
+          "begin": 36448,
+          "end": 36452
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:55Z",
+        "id": "836"
+      },
+      {
+        "span": {
+          "begin": 36535,
+          "end": 36539
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "687"
+      },
+      {
+        "span": {
+          "begin": 36535,
+          "end": 36539
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:55Z",
+        "id": "837"
+      },
+      {
+        "span": {
+          "begin": 36614,
+          "end": 36618
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "446"
+      },
+      {
+        "span": {
+          "begin": 36614,
+          "end": 36618
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "173"
+      },
+      {
+        "span": {
+          "begin": 37198,
+          "end": 37202
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "447"
+      },
+      {
+        "span": {
+          "begin": 37198,
+          "end": 37202
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "174"
+      },
+      {
+        "span": {
+          "begin": 37256,
+          "end": 37260
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "448"
+      },
+      {
+        "span": {
+          "begin": 37256,
+          "end": 37260
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "175"
+      },
+      {
+        "span": {
+          "begin": 37311,
+          "end": 37315
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "449"
+      },
+      {
+        "span": {
+          "begin": 37311,
+          "end": 37315
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "176"
+      },
+      {
+        "span": {
+          "begin": 37420,
+          "end": 37424
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "450"
+      },
+      {
+        "span": {
+          "begin": 37420,
+          "end": 37424
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "177"
+      },
+      {
+        "span": {
+          "begin": 37528,
+          "end": 37532
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "451"
+      },
+      {
+        "span": {
+          "begin": 37528,
+          "end": 37532
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "178"
+      },
+      {
+        "span": {
+          "begin": 37693,
+          "end": 37698
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "759"
+      },
+      {
+        "span": {
+          "begin": 37702,
+          "end": 37706
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "452"
+      },
+      {
+        "span": {
+          "begin": 37702,
+          "end": 37706
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "179"
+      },
+      {
+        "span": {
+          "begin": 37916,
+          "end": 37920
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "453"
+      },
+      {
+        "span": {
+          "begin": 37916,
+          "end": 37920
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "180"
+      },
+      {
+        "span": {
+          "begin": 38017,
+          "end": 38021
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "454"
+      },
+      {
+        "span": {
+          "begin": 38017,
+          "end": 38021
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "181"
+      },
+      {
+        "span": {
+          "begin": 38306,
+          "end": 38310
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "455"
+      },
+      {
+        "span": {
+          "begin": 38306,
+          "end": 38310
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "182"
+      },
+      {
+        "span": {
+          "begin": 38367,
+          "end": 38371
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "456"
+      },
+      {
+        "span": {
+          "begin": 38367,
+          "end": 38371
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "183"
+      },
+      {
+        "span": {
+          "begin": 38497,
+          "end": 38501
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "457"
+      },
+      {
+        "span": {
+          "begin": 38497,
+          "end": 38501
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "184"
+      },
+      {
+        "span": {
+          "begin": 38711,
+          "end": 38715
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "688"
+      },
+      {
+        "span": {
+          "begin": 38711,
+          "end": 38715
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:55Z",
+        "id": "838"
+      },
+      {
+        "span": {
+          "begin": 38750,
+          "end": 38754
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "458"
+      },
+      {
+        "span": {
+          "begin": 38750,
+          "end": 38754
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "185"
+      },
+      {
+        "span": {
+          "begin": 38806,
+          "end": 38811
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "760"
+      },
+      {
+        "span": {
+          "begin": 38815,
+          "end": 38819
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "459"
+      },
+      {
+        "span": {
+          "begin": 38815,
+          "end": 38819
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "186"
+      },
+      {
+        "span": {
+          "begin": 38837,
+          "end": 38842
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "761"
+      },
+      {
+        "span": {
+          "begin": 38858,
+          "end": 38862
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "460"
+      },
+      {
+        "span": {
+          "begin": 38858,
+          "end": 38862
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "187"
+      },
+      {
+        "span": {
+          "begin": 38882,
+          "end": 38887
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "762"
+      },
+      {
+        "span": {
+          "begin": 38891,
+          "end": 38895
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "461"
+      },
+      {
+        "span": {
+          "begin": 38891,
+          "end": 38895
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "188"
+      },
+      {
+        "span": {
+          "begin": 39138,
+          "end": 39142
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "462"
+      },
+      {
+        "span": {
+          "begin": 39138,
+          "end": 39142
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "189"
+      },
+      {
+        "span": {
+          "begin": 39183,
+          "end": 39187
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "463"
+      },
+      {
+        "span": {
+          "begin": 39183,
+          "end": 39187
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "190"
+      },
+      {
+        "span": {
+          "begin": 39399,
+          "end": 39403
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "464"
+      },
+      {
+        "span": {
+          "begin": 39399,
+          "end": 39403
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "191"
+      },
+      {
+        "span": {
+          "begin": 39459,
+          "end": 39463
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "465"
+      },
+      {
+        "span": {
+          "begin": 39459,
+          "end": 39463
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "192"
+      },
+      {
+        "span": {
+          "begin": 39592,
+          "end": 39596
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "466"
+      },
+      {
+        "span": {
+          "begin": 39592,
+          "end": 39596
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "193"
+      },
+      {
+        "span": {
+          "begin": 39682,
+          "end": 39686
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "467"
+      },
+      {
+        "span": {
+          "begin": 39682,
+          "end": 39686
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "194"
+      },
+      {
+        "span": {
+          "begin": 39702,
+          "end": 39706
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "468"
+      },
+      {
+        "span": {
+          "begin": 39702,
+          "end": 39706
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "195"
+      },
+      {
+        "span": {
+          "begin": 40417,
+          "end": 40422
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "763"
+      },
+      {
+        "span": {
+          "begin": 40475,
+          "end": 40479
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "689"
+      },
+      {
+        "span": {
+          "begin": 40475,
+          "end": 40479
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:55Z",
+        "id": "839"
+      },
+      {
+        "span": {
+          "begin": 40769,
+          "end": 40773
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "690"
+      },
+      {
+        "span": {
+          "begin": 40769,
+          "end": 40773
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:55Z",
+        "id": "840"
+      },
+      {
+        "span": {
+          "begin": 41365,
+          "end": 41370
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "764"
+      },
+      {
+        "span": {
+          "begin": 41433,
+          "end": 41437
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "691"
+      },
+      {
+        "span": {
+          "begin": 41433,
+          "end": 41437
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:55Z",
+        "id": "841"
+      },
+      {
+        "span": {
+          "begin": 41438,
+          "end": 41443
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "765"
+      },
+      {
+        "span": {
+          "begin": 41472,
+          "end": 41476
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "692"
+      },
+      {
+        "span": {
+          "begin": 41472,
+          "end": 41476
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:55Z",
+        "id": "842"
+      },
+      {
+        "span": {
+          "begin": 42303,
+          "end": 42308
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "766"
+      },
+      {
+        "span": {
+          "begin": 42554,
+          "end": 42559
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "767"
+      },
+      {
+        "span": {
+          "begin": 42603,
+          "end": 42607
+        },
+        "obj": "Gene,GENE:2540885,alice,2021-04-13T15:11:54Z",
+        "id": "469"
+      },
+      {
+        "span": {
+          "begin": 42603,
+          "end": 42607
+        },
+        "obj": "Gene,GENE:2540885,john,2021-04-13T15:11:53Z",
+        "id": "196"
+      },
+      {
+        "span": {
+          "begin": 43132,
+          "end": 43136
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "693"
+      },
+      {
+        "span": {
+          "begin": 43132,
+          "end": 43136
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:55Z",
+        "id": "843"
+      },
+      {
+        "span": {
+          "begin": 43709,
+          "end": 43714
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "768"
+      },
+      {
+        "span": {
+          "begin": 44123,
+          "end": 44127
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "694"
+      },
+      {
+        "span": {
+          "begin": 44123,
+          "end": 44127
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:55Z",
+        "id": "844"
+      },
+      {
+        "span": {
+          "begin": 44274,
+          "end": 44278
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "695"
+      },
+      {
+        "span": {
+          "begin": 44274,
+          "end": 44278
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:55Z",
+        "id": "845"
+      },
+      {
+        "span": {
+          "begin": 44358,
+          "end": 44363
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "769"
+      },
+      {
+        "span": {
+          "begin": 44656,
+          "end": 44660
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "696"
+      },
+      {
+        "span": {
+          "begin": 44656,
+          "end": 44660
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:55Z",
+        "id": "846"
+      },
+      {
+        "span": {
+          "begin": 44747,
+          "end": 44751
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "697"
+      },
+      {
+        "span": {
+          "begin": 44747,
+          "end": 44751
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:55Z",
+        "id": "847"
+      },
+      {
+        "span": {
+          "begin": 45115,
+          "end": 45120
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "770"
+      },
+      {
+        "span": {
+          "begin": 45203,
+          "end": 45208
+        },
+        "obj": "Gene,GENE:851019,john,2021-04-13T15:11:53Z",
+        "id": "771"
+      },
+      {
+        "span": {
+          "begin": 45220,
+          "end": 45224
+        },
+        "obj": "Gene,GENE:2539087,john,2021-04-13T15:11:53Z",
+        "id": "698"
+      },
+      {
+        "span": {
+          "begin": 45220,
+          "end": 45224
+        },
+        "obj": "Gene,GENE:2539087,alice,2021-04-13T15:11:55Z",
+        "id": "848"
+      }
+    ],
+    "relations": [
+    ]
+  }
+]

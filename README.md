@@ -1,11 +1,13 @@
 # Annotation formats and tools
 
-Notes on annotation formats, mostly for biomedical literature.
+Notes on annotation formats, mostly for biomedical literature. Examples include BioC, [PubAnnotation](http://pubannotation.org), [PubTator](https://www.ncbi.nlm.nih.gov/research/pubtator/).
+
+## Notes on text position
+
 
 ## Formats
 
 Below shows three different formats for PMID:20085714 (taken from https://www.ncbi.nlm.nih.gov/CBBresearch/Lu/Demo/tmTools/Format.html).
-
 
 ### Tool-specific input format 1 (PubTator):
 ```
