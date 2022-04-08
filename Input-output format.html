@@ -1,0 +1,136 @@
+<html>
+<head>
+<title>Input/output format</title>
+<style type="text/css">
+<!--
+body {font-family: 'Arial', Times, serif; font-size: 12px;}
+-->
+
+</style>
+</head>
+
+<body>
+
+<font size=4>Below shows three different formats for PMID:20085714.</font>
+<BR><BR>
+
+<a NAME="PubTator"><font size=4><U>Tool-specific input format 1 (PubTator):</U></font></a>
+<PRE>
+20085714|t|Autosomal-dominant striatal degeneration is caused by a mutation in the phosphodiesterase 8B gene.
+20085714|a|Autosomal-dominant striatal degeneration (ADSD) is an autosomal-dominant movement disorder affecting the striatal part of the basal ganglia. ADSD is characterized by bradykinesia, dysarthria, and muscle rigidity. These symptoms resemble idiopathic Parkinson disease, but tremor is not present. Using genetic linkage analysis, we have mapped the causative genetic defect to a 3.25 megabase candidate region on chromosome 5q13.3-q14.1. A maximum LOD score of 4.1 (Theta = 0) was obtained at marker D5S1962. Here we show that ADSD is caused by a complex frameshift mutation (c.94G>C+c.95delT) in the phosphodiesterase 8B (PDE8B) gene, which results in a loss of enzymatic phosphodiesterase activity. We found that PDE8B is highly expressed in the brain, especially in the putamen, which is affected by ADSD. PDE8B degrades cyclic AMP, a second messenger implied in dopamine signaling. Dopamine is one of the main neurotransmitters involved in movement control and is deficient in Parkinson disease. We believe that the functional analysis of PDE8B will help to further elucidate the pathomechanism of ADSD as well as contribute to a better understanding of movement disorders.
+</PRE>
+
+<a NAME="PubTator"><font size=4><U>Tool-specific output format 1 (PubTator):</U></font></a>
+<PRE>
+20085714|t|Autosomal-dominant striatal degeneration is caused by a mutation in the phosphodiesterase 8B gene.
+20085714|a|Autosomal-dominant striatal degeneration is caused by a mutation in the phosphodiesterase 8B gene. Autosomal-dominant striatal degeneration (ADSD) is an autosomal-dominant movement disorder affecting the striatal part of the basal ganglia. ADSD is characterized by bradykinesia, dysarthria, and muscle rigidity. These symptoms resemble idiopathic Parkinson disease, but tremor is not present. Using genetic linkage analysis, we have mapped the causative genetic defect to a 3.25 megabase candidate region on chromosome 5q13.3-q14.1. A maximum LOD score of 4.1 (Theta = 0) was obtained at marker D5S1962. Here we show that ADSD is caused by a complex frameshift mutation (c.94G>C+c.95delT) in the phosphodiesterase 8B (PDE8B) gene, which results in a loss of enzymatic phosphodiesterase activity. We found that PDE8B is highly expressed in the brain, especially in the putamen, which is affected by ADSD. PDE8B degrades cyclic AMP, a second messenger implied in dopamine signaling. Dopamine is one of the main neurotransmitters involved in movement control and is deficient in Parkinson disease. We believe that the functional analysis of PDE8B will help to further elucidate the pathomechanism of ADSD as well as contribute to a better understanding of movement disorders.
+20085714	72	92	phosphodiesterase 8B	Gene	8622
+20085714	99	139	Autosomal-dominant striatal degeneration	Disease	609161
+20085714	671	678	c.94G>C	Mutation	c|SUB|G|94|C
+20085714	679	687	c.95delT	Mutation	c|DEL|95|T
+20085714	696	716	phosphodiesterase 8B	Gene	8622
+20085714	981	989	Dopamine	Chemical	D004298
+...
+</PRE>
+
+<a NAME="JSON"><font size=4><U>Tool-specific input format 1 (JSON):</U></font></a>
+<PRE>
+{
+	"text":"Autosomal-dominant striatal degeneration is caused by a mutation in the phosphodiesterase 8B gene. Autosomal-dominant striatal degeneration (ADSD) is an autosomal-dominant movement disorder affecting the striatal part of the basal ganglia. ADSD is characterized by bradykinesia, dysarthria, and muscle rigidity. These symptoms resemble idiopathic Parkinson disease, but tremor is not present. Using genetic linkage analysis, we have mapped the causative genetic defect to a 3.25 megabase candidate region on chromosome 5q13.3-q14.1. A maximum LOD score of 4.1 (Theta = 0) was obtained at marker D5S1962. Here we show that ADSD is caused by a complex frameshift mutation (c.94G>C+c.95delT) in the phosphodiesterase 8B (PDE8B) gene, which results in a loss of enzymatic phosphodiesterase activity. We found that PDE8B is highly expressed in the brain, especially in the putamen, which is affected by ADSD. PDE8B degrades cyclic AMP, a second messenger implied in dopamine signaling. Dopamine is one of the main neurotransmitters involved in movement control and is deficient in Parkinson disease. We believe that the functional analysis of PDE8B will help to further elucidate the pathomechanism of ADSD as well as contribute to a better understanding of movement disorders.",
+	"sourcedb": "PubMed",
+	"sourceid": "20085714"
+}
+</PRE>
+
+<a NAME="JSON"><font size=4><U>Tool-specific output format 1 (JSON, refer to <a href='http://pubannotation.org/' target='t'>PubAnnotation</a>):</U></font></a>
+<PRE>
+{
+	"text":"Autosomal-dominant striatal degeneration is caused by a mutation in the phosphodiesterase 8B gene. Autosomal-dominant striatal degeneration (ADSD) is an autosomal-dominant movement disorder affecting the striatal part of the basal ganglia. ADSD is characterized by bradykinesia, dysarthria, and muscle rigidity. These symptoms resemble idiopathic Parkinson disease, but tremor is not present. Using genetic linkage analysis, we have mapped the causative genetic defect to a 3.25 megabase candidate region on chromosome 5q13.3-q14.1. A maximum LOD score of 4.1 (Theta = 0) was obtained at marker D5S1962. Here we show that ADSD is caused by a complex frameshift mutation (c.94G>C+c.95delT) in the phosphodiesterase 8B (PDE8B) gene, which results in a loss of enzymatic phosphodiesterase activity. We found that PDE8B is highly expressed in the brain, especially in the putamen, which is affected by ADSD. PDE8B degrades cyclic AMP, a second messenger implied in dopamine signaling. Dopamine is one of the main neurotransmitters involved in movement control and is deficient in Parkinson disease. We believe that the functional analysis of PDE8B will help to further elucidate the pathomechanism of ADSD as well as contribute to a better understanding of movement disorders.",
+	"sourcedb": "PubMed",
+	"sourceid": "20085714",
+	"denotations":[
+		{"obj":"Gene:8622","span":{"begin":72,"end":92}},
+		{"obj":"Disease:609161","span":{"begin":99,"end":139}},
+		{"obj":"Mutation:c|SUB|G|94|C","span":{"begin":671,"end":678}},
+		{"obj":"Mutation:c|DEL|95|T","span":{"begin":679,"end":687}},
+		{"obj":"Gene:8622","span":{"begin":696,"end":716}},
+		{"obj":"Chemical:D004298","span":{"begin":981,"end":989}}
+	]
+}
+</PRE>
+
+<a NAME="BioC"><font size=4><U>BioC input format:</U></font></a>
+<PRE>
+&lt;collection&gt;
+	&lt;source&gt;Example&lt;/source&gt;
+	&lt;date&gt;1999-Jan-1&lt;/date&gt;
+	&lt;key&gt;PubTator.key&lt;/key&gt;
+	&lt;document&gt;
+		&lt;id&gt;20085714&lt;/id&gt;
+		&lt;passage&gt;
+			&lt;infon key=&quot;type&quot;&gt;title&lt;/infon&gt;
+			&lt;offset&gt;0&lt;/offset&gt;
+			&lt;text&gt;
+			Autosomal-dominant striatal degeneration is caused by a mutation in the phosphodiesterase 8B gene.
+			&lt;/text&gt;
+		&lt;/passage&gt;
+		&lt;passage&gt;
+			&lt;infon key=&quot;type&quot;&gt;abstract&lt;/infon&gt;
+			&lt;offset&gt;98&lt;/offset&gt;
+			&lt;text&gt;
+			Autosomal-dominant striatal degeneration (ADSD) is an autosomal-dominant movement disorder affecting the striatal part of the basal ganglia. ADSD is characterized by bradykinesia, dysarthria, and muscle rigidity. These symptoms resemble idiopathic Parkinson disease, but tremor is not present. Using genetic linkage analysis, we have mapped the causative genetic defect to a 3.25 megabase candidate region on chromosome 5q13.3-q14.1. A maximum LOD score of 4.1 (Theta = 0) was obtained at marker D5S1962. Here we show that ADSD is caused by a complex frameshift mutation (c.94G&gt;C+c.95delT) in the phosphodiesterase 8B (PDE8B) gene, which results in a loss of enzymatic phosphodiesterase activity. We found that PDE8B is highly expressed in the brain, especially in the putamen, which is affected by ADSD. PDE8B degrades cyclic AMP, a second messenger implied in dopamine signaling. Dopamine is one of the main neurotransmitters involved in movement control and is deficient in Parkinson disease. We believe that the functional analysis of PDE8B will help to further elucidate the pathomechanism of ADSD as well as contribute to a better understanding of movement disorders.
+			&lt;/text&gt;
+		&lt;/passage&gt;
+	&lt;/document&gt;
+&lt;/collection&gt;
+</PRE>
+
+<a NAME="BioC"><font size=4><U>BioC output format:</U></font></a>
+<PRE>
+&lt;collection&gt;
+	&lt;source&gt;Example&lt;/source&gt;
+	&lt;date&gt;1999-Jan-1&lt;/date&gt;
+	&lt;key&gt;PubTator.key&lt;/key&gt;
+	&lt;document&gt;
+		&lt;id&gt;20085714&lt;/id&gt;
+		&lt;passage&gt;
+			&lt;infon key=&quot;type&quot;&gt;title&lt;/infon&gt;
+			&lt;offset&gt;0&lt;/offset&gt;
+			&lt;text&gt;
+			Autosomal-dominant striatal degeneration is caused by a mutation in the phosphodiesterase 8B gene.
+			&lt;/text&gt;
+			&lt;annotation&gt;
+				&lt;infon key=&quot;type&quot;&gt;Gene&lt;/infon&gt;
+				&lt;offset&gt;72&lt;/offset&gt;
+				&lt;length&gt;20&lt;/length&gt;
+				&lt;text&gt;phosphodiesterase 8B&lt;/text&gt;
+				&lt;id&gt;8622&lt;/id&gt;
+			&lt;/annotation&gt;
+		&lt;/passage&gt;
+		&lt;passage&gt;
+			&lt;infon key=&quot;type&quot;&gt;abstract&lt;/infon&gt;
+			&lt;offset&gt;98&lt;/offset&gt;
+			&lt;text&gt;
+			Autosomal-dominant striatal degeneration (ADSD) is an autosomal-dominant movement disorder affecting the striatal part of the basal ganglia. ADSD is characterized by bradykinesia, dysarthria, and muscle rigidity. These symptoms resemble idiopathic Parkinson disease, but tremor is not present. Using genetic linkage analysis, we have mapped the causative genetic defect to a 3.25 megabase candidate region on chromosome 5q13.3-q14.1. A maximum LOD score of 4.1 (Theta = 0) was obtained at marker D5S1962. Here we show that ADSD is caused by a complex frameshift mutation (c.94G&gt;C+c.95delT) in the phosphodiesterase 8B (PDE8B) gene, which results in a loss of enzymatic phosphodiesterase activity. We found that PDE8B is highly expressed in the brain, especially in the putamen, which is affected by ADSD. PDE8B degrades cyclic AMP, a second messenger implied in dopamine signaling. Dopamine is one of the main neurotransmitters involved in movement control and is deficient in Parkinson disease. We believe that the functional analysis of PDE8B will help to further elucidate the pathomechanism of ADSD as well as contribute to a better understanding of movement disorders.
+			&lt;/text&gt;
+			&lt;annotation&gt;
+				&lt;infon key=&quot;type&quot;&gt;Disease&lt;/infon&gt;
+				&lt;offset&gt;99&lt;/offset&gt;
+				&lt;length&gt;41&lt;/length&gt;
+				&lt;text&gt;Autosomal-dominant striatal degeneration&lt;/text&gt;
+				&lt;id&gt;609161&lt;/id&gt;
+			&lt;/annotation&gt;
+			&lt;annotation&gt;
+				&lt;infon key=&quot;type&quot;&gt;Disease&lt;/infon&gt;
+				&lt;offset&gt;141&lt;/offset&gt;
+				&lt;length&gt;4&lt;/length&gt;
+				&lt;text&gt;ADSD&lt;/text&gt;
+				&lt;id&gt;609161&lt;/id&gt;
+			&lt;/annotation&gt;
+			...
+		&lt;/passage&gt;
+	&lt;/document&gt;
+&lt;/collection&gt;
+</PRE>
+</body>
+</html>
