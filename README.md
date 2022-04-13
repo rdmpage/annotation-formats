@@ -4,6 +4,25 @@ Notes on annotation formats, mostly for biomedical literature. Examples include 
 
 ## Notes on text position
 
+```
+Autosomal-dominant striatal degeneration is caused by a mutation in the phosphodiesterase 8B gene.
+```
+
+Position can be a combination of first character in the string (zero-based index) and length, e.g. offset 72, length 20, or begin 72 and end 92.
+
+```
+7         8         9     
+0123456789012345678901234567
+  |                   | 
+e phosphodiesterase 8B gene.
+  |                   |
+  72 begin            92 end 
+  |                   |
+  phosphodiesterase 8B
+```
+
+In a begin-end span, `end` is the position of the character immediately after the substring, in this case position 92 which is a space “ “). Subtracting end - begin gives us the length of the substring (“phosphodiesterase 8B”), in this case 20.
+
 
 ## Formats
 
