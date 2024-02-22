@@ -153,3 +153,6 @@ Below shows three different formats for PMID:20085714 (taken from https://www.nc
 [PubTator](https://www.ncbi.nlm.nih.gov/research/pubtator/) for example [PMC6982432](https://www.ncbi.nlm.nih.gov/research/pubtator/?view=docsum&query=PMC6982432)
 
 ![pubtator](https://github.com/rdmpage/annotation-formats/raw/main/pubtator.png)
+
+To get annotations in JSON use the REST API, e.g. https://www.ncbi.nlm.nih.gov/research/pubtator-api/publications/export/biocjson?pmcids=PMC6982432
+
