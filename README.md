@@ -156,3 +156,9 @@ Below shows three different formats for PMID:20085714 (taken from https://www.nc
 
 To get annotations in JSON use the REST API, e.g. https://www.ncbi.nlm.nih.gov/research/pubtator-api/publications/export/biocjson?pmcids=PMC6982432
 
+## Reading
+
+Donald C. Comeau, Rezarta Islamaj Doğan, Paolo Ciccarese, Kevin Bretonnel Cohen, Martin Krallinger, Florian Leitner, Zhiyong Lu, Yifan Peng, Fabio Rinaldi, Manabu Torii, Alfonso Valencia, Karin Verspoor, Thomas C. Wiegers, Cathy H. Wu, W. John Wilbur, BioC: a minimalist approach to interoperability for biomedical text processing, Database, Volume 2013, 2013, bat064, https://doi.org/10.1093/database/bat064
+
+See also https://github.com/bionlplab/bioc
+

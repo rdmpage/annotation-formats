@@ -70,6 +70,8 @@ foreach ($obj->passages as $passage)
 {
 	// echo $passage->text . "\n";
 	
+	// get annotation coordinates so we can add to the text
+	
 	$open = array();
 	$close = array();
 	
